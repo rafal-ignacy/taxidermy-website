@@ -1,0 +1,103 @@
+body, html {
+    background: url("../img/background.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+body:not(.loaded) #slider img {
+    display:none;
+  }
+
+.container {
+    max-width: 80vw!important;
+}
+
+.modal-backdrop.in {
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.navbar {
+    background-color: rgba(5, 24, 0, 0.7);
+    box-shadow: 0 10px 35px 20px rgba(5, 24, 0, 0.7);
+}
+
+.dropdown-menu  {
+    background-color: rgba(38, 38, 38) !important;
+    border-style: solid !important;
+    border-color: rgb(5, 24, 0) !important;
+    box-shadow: 0px 0px 10px 10px rgba(0, 0, 0, 0.7) !important;
+}
+
+.dropdown-item  {
+    color: rgb(160, 159, 159) !important;
+}
+
+.dropdown-item:hover  {
+    background-color: rgba(0, 0, 0, 0.5) !important;
+    color: #f7f7f7 !important;
+}
+
+.category_row {
+    text-align: center; 
+    background-color: rgba(5, 24, 0, 0.7); 
+    box-shadow: 0 10px 35px 20px rgba(5, 24, 0, 0.7), 0 -10px 35px 20px rgba(5, 24, 0, 0.7), inset 0 -10px 35px 20px rgba(5, 24, 0, 0.7);
+}
+.category_img {
+    position: relative;
+}
+
+.image__img {
+    display: block;
+    width: 100%;
+}
+
+.image__overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    color: #ffffff;
+    font-family: 'Quicksand', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: opacity 0.25s;
+}
+
+.image__overlay--blur {
+    backdrop-filter: blur(5px);
+}
+
+.image__overlay--primary {
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.image__overlay > * {
+    transform: translateY(20px);
+    transition: transform 0.25s;
+}
+
+.image__overlay:hover {
+    opacity: 1;
+    box-shadow: 0px 0px 10px 5px black;
+}
+
+.image__overlay:hover > * {
+    transform: translateY(0);
+}
+
+.image__title {
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.image__description {
+    font-size: 1.25em;
+    margin-top: 0.25em;
+}
