@@ -1,0 +1,15 @@
+.contact-input:focus {
+    border-color: rgb(0, 169, 79) !important; 
+    box-shadow: 0 0 0.25rem 0.25rem rgba(0, 102, 48, 0.25) !important;
+}
+
+.submit-section {
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+
+.form-submit-status-message {
+    text-align: center;
+}

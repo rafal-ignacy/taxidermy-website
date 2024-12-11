@@ -1,0 +1,10 @@
+.env
+todo
+settings.json
+build/
+node_modules/
+logs/
+*.log
+*.jpg
+*.JPG
+*.webp

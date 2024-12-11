@@ -1,0 +1,2517 @@
+{
+  "roeDeer": {
+    "Rs": {
+      "price": 200,
+      "dimensions": [
+        25,
+        60,
+        30
+      ],
+      "images": [
+        {
+          "src": "/products/gallery/roe-deer/Rs-1.JPG",
+          "thumbnail": "/products/thumbnails/roe-deer/Rs-1.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/gallery/roe-deer/Rs-2.JPG",
+          "thumbnail": "/products/thumbnails/roe-deer/Rs-2.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/gallery/roe-deer/Rs-3.JPG",
+          "thumbnail": "/products/thumbnails/roe-deer/Rs-3.webp",
+          "key": 3
+        }
+      ],
+      "en-GB": {
+        "title": "Roe Deer Shoulder Mount (summer)",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\""
+      },
+      "en-US": {
+        "title": "Roe Deer Shoulder Mount (summer)",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\""
+      },
+      "de-DE": {
+        "title": "Rehbock Kopf Präparat (Sommer)",
+        "descriptionTemplate": "Breite: {dimension1-cm} cm</br>Höhe: {dimension2-cm} cm</br>Tiefe: {dimension3-cm} cm</br>"
+      },
+      "pl-PL": {
+        "title": "Medalion sarny (letni)",
+        "descriptionTemplate": "szerokość: {dimension1-cm} cm</br>wysokość: {dimension2-cm} cm</br>głębokość: {dimension3-cm} cm"
+      }
+    },
+    "Rs2": {
+      "price": 230,
+      "dimensions": [
+        25,
+        60,
+        30,
+        26,
+        33
+      ],
+      "images": [
+        {
+          "src": "/products/gallery/roe-deer/Rs2-1.JPG",
+          "thumbnail": "/products/thumbnails/roe-deer/Rs2-1.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/gallery/roe-deer/Rs2-2.JPG",
+          "thumbnail": "/products/thumbnails/roe-deer/Rs2-2.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/gallery/roe-deer/Rs2-3.JPG",
+          "thumbnail": "/products/thumbnails/roe-deer/Rs2-3.webp",
+          "key": 3
+        }
+      ],
+      "en-GB": {
+        "title": "Roe Deer Shoulder Mount (summer) + oval shield",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield height: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "en-US": {
+        "title": "Roe Deer Shoulder Mount (summer) + oval shield",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield height: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "de-DE": {
+        "title": "Rehbock Kopf Präparat (Sommer) + ovaler Schild",
+        "descriptionTemplate": "Breite: {dimension1-cm} cm</br>Höhe: {dimension2-cm} cm</br>Tiefe: {dimension3-cm} cm</br>Schildbreite: {dimension4-cm} cm</br>Schildhöhe: {dimension5-cm} cm"
+      },
+      "pl-PL": {
+        "title": "Medalion sarny (letni) na owalnej desce",
+        "descriptionTemplate": "szerokość: {dimension1-cm} cm</br>wysokość: {dimension2-cm} cm</br>głębokość: {dimension3-cm} cm</br>szerokość deski: {dimension4-cm} cm</br>wysokość deski: {dimension5-cm} cm"
+      }
+    },
+    "Rs5": {
+      "price": 265,
+      "dimensions": [
+        25,
+        60,
+        30,
+        32,
+        49
+      ],
+      "images": [
+        {
+          "src": "/products/gallery/roe-deer/Rs5-2.JPG",
+          "thumbnail": "/products/thumbnails/roe-deer/Rs5-2.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/gallery/roe-deer/Rs5-1.JPG",
+          "thumbnail": "/products/thumbnails/roe-deer/Rs5-1.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/gallery/roe-deer/Rs5-3.JPG",
+          "thumbnail": "/products/thumbnails/roe-deer/Rs5-1.webp",
+          "key": 3
+        }
+      ],
+      "en-GB": {
+        "title": "Roe Deer Shoulder Mount (summer) + carved shield</br>no. 5",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield height: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "en-US": {
+        "title": "Roe Deer Shoulder Mount (summer) + carved shield</br>no. 5",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield height: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "de-DE": {
+        "title": "Rehbock Kopf Präparat (Sommer) + geschnitzter Schild nr 5",
+        "descriptionTemplate": "Breite: {dimension1-cm} cm</br>Höhe: {dimension2-cm} cm</br>Tiefe: {dimension3-cm} cm</br>Schildbreite: {dimension4-cm} cm</br>Schildhöhe: {dimension5-cm} cm"
+      },
+      "pl-PL": {
+        "title": "Medalion sarny (letni) na rzeźbionej desce nr 5",
+        "descriptionTemplate": "szerokość: {dimension1-cm} cm</br>wysokość: {dimension2-cm} cm</br>głębokość: {dimension3-cm} cm</br>szerokość deski: {dimension4-cm} cm</br>wysokość deski: {dimension5-cm} cm"
+      }
+    },
+    "Rs6": {
+      "price": 285,
+      "dimensions": [
+        25,
+        60,
+        30,
+        36,
+        50
+      ],
+      "images": [
+        {
+          "src": "/products/gallery/roe-deer/Rs6-3.JPG",
+          "thumbnail": "/products/thumbnails/roe-deer/Rs6-3.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/gallery/roe-deer/Rs6-1.JPG",
+          "thumbnail": "/products/thumbnails/roe-deer/Rs6-1.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/gallery/roe-deer/Rs6-2.JPG",
+          "thumbnail": "/products/thumbnails/roe-deer/Rs6-2.webp",
+          "key": 3
+        },
+        {
+          "src": "/products/gallery/roe-deer/Rs6-4.JPG",
+          "thumbnail": "/products/thumbnails/roe-deer/Rs6-2.webp",
+          "key": 4
+        }
+      ],
+      "en-GB": {
+        "title": "Roe Deer Shoulder Mount (summer) + carved shield</br>no. 6",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield height: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "en-US": {
+        "title": "Roe Deer Shoulder Mount (summer) + carved shield</br>no. 6",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield height: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "de-DE": {
+        "title": "Rehbock Kopf Präparat (Sommer) + geschnitzter Schild nr 6",
+        "descriptionTemplate": "Breite: {dimension1-cm} cm</br>Höhe: {dimension2-cm} cm</br>Tiefe: {dimension3-cm} cm</br>Schildbreite: {dimension4-cm} cm</br>Schildhöhe: {dimension5-cm} cm"
+      },
+      "pl-PL": {
+        "title": "Medalion sarny (letni) na rzeźbionej desce nr 6",
+        "descriptionTemplate": "szerokość: {dimension1-cm} cm</br>wysokość: {dimension2-cm} cm</br>głębokość: {dimension3-cm} cm</br>szerokość deski: {dimension4-cm} cm</br>wysokość deski: {dimension5-cm} cm"
+      }
+    },
+    "Rs7": {
+      "price": 285,
+      "dimensions": [
+        25,
+        60,
+        30,
+        46,
+        45
+      ],
+      "images": [
+        {
+          "src": "/products/gallery/roe-deer/Rs7-3.JPG",
+          "thumbnail": "/products/thumbnails/roe-deer/Rs7-3.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/gallery/roe-deer/Rs7-1.JPG",
+          "thumbnail": "/products/thumbnails/roe-deer/Rs7-1.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/gallery/roe-deer/Rs7-2.JPG",
+          "thumbnail": "/products/thumbnails/roe-deer/Rs7-2.webp",
+          "key": 3
+        },
+        {
+          "src": "/products/gallery/roe-deer/Rs7-4.JPG",
+          "thumbnail": "/products/thumbnails/roe-deer/Rs7-4.webp",
+          "key": 4
+        }
+      ],
+      "en-GB": {
+        "title": "Roe Deer Shoulder Mount (summer) + carved shield</br>no. 7",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield height: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "en-US": {
+        "title": "Roe Deer Shoulder Mount (summer) + carved shield</br>no. 7",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield height: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "de-DE": {
+        "title": "Rehbock Kopf Präparat (Sommer) + geschnitzter Schild nr 7",
+        "descriptionTemplate": "Breite: {dimension1-cm} cm</br>Höhe: {dimension2-cm} cm</br>Tiefe: {dimension3-cm} cm</br>Schildbreite: {dimension4-cm} cm</br>Schildhöhe: {dimension5-cm} cm"
+      },
+      "pl-PL": {
+        "title": "Medalion sarny (letni) na rzeźbionej desce nr 7",
+        "descriptionTemplate": "szerokość: {dimension1-cm} cm</br>wysokość: {dimension2-cm} cm</br>głębokość: {dimension3-cm} cm</br>szerokość deski: {dimension4-cm} cm</br>wysokość deski: {dimension5-cm} cm"
+      }
+    },
+    "Rs8": {
+      "price": 275,
+      "dimensions": [
+        25,
+        60,
+        30,
+        36,
+        41
+      ],
+      "images": [
+        {
+          "src": "/products/gallery/roe-deer/Rs8-3.JPG",
+          "thumbnail": "/products/thumbnails/roe-deer/Rs8-3.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/gallery/roe-deer/Rs8-1.JPG",
+          "thumbnail": "/products/thumbnails/roe-deer/Rs8-1.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/gallery/roe-deer/Rs8-2.JPG",
+          "thumbnail": "/products/thumbnails/roe-deer/Rs8-2.webp",
+          "key": 3
+        },
+        {
+          "src": "/products/gallery/roe-deer/Rs8-4.JPG",
+          "thumbnail": "/products/thumbnails/roe-deer/Rs8-4.webp",
+          "key": 4
+        }
+      ],
+      "en-GB": {
+        "title": "Roe Deer Shoulder Mount (summer) + carved shield</br>no. 8",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield height: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "en-US": {
+        "title": "Roe Deer Shoulder Mount (summer) + carved shield</br>no. 8",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield height: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "de-DE": {
+        "title": "Rehbock Kopf Präparat (Sommer) + geschnitzter Schild nr 8",
+        "descriptionTemplate": "Breite: {dimension1-cm} cm</br>Höhe: {dimension2-cm} cm</br>Tiefe: {dimension3-cm} cm</br>Schildbreite: {dimension4-cm} cm</br>Schildhöhe: {dimension5-cm} cm"
+      },
+      "pl-PL": {
+        "title": "Medalion sarny (letni) na rzeźbionej desce nr 8",
+        "descriptionTemplate": "szerokość: {dimension1-cm} cm</br>wysokość: {dimension2-cm} cm</br>głębokość: {dimension3-cm} cm</br>szerokość deski: {dimension4-cm} cm</br>wysokość deski: {dimension5-cm} cm"
+      }
+    },
+    "Rw": {
+      "price": 155,
+      "dimensions": [
+        25,
+        60,
+        30
+      ],
+      "images": [
+        {
+          "src": "/products/gallery/roe-deer/Rw-2.JPG",
+          "thumbnail": "/products/thumbnails/roe-deer/Rw-2.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/gallery/roe-deer/Rw-1.JPG",
+          "thumbnail": "/products/thumbnails/roe-deer/Rw-1.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/gallery/roe-deer/Rw-3.JPG",
+          "thumbnail": "/products/thumbnails/roe-deer/Rw-3.webp",
+          "key": 3
+        },
+        {
+          "src": "/products/gallery/roe-deer/Rw-4.JPG",
+          "thumbnail": "/products/thumbnails/roe-deer/Rw-4.webp",
+          "key": 4
+        }
+      ],
+      "en-GB": {
+        "title": "Roe Deer Shoulder Mount (winter)",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\""
+      },
+      "en-US": {
+        "title": "Roe Deer Shoulder Mount (winter)",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\""
+      },
+      "de-DE": {
+        "title": "Rehbock Kopf Präparat (Winter)",
+        "descriptionTemplate": "Breite: {dimension1-cm} cm</br>Höhe: {dimension2-cm} cm</br>Tiefe: {dimension3-cm} cm</br>"
+      },
+      "pl-PL": {
+        "title": "Medalion sarny (zimowy)",
+        "descriptionTemplate": "szerokość: {dimension1-cm} cm</br>wysokość: {dimension2-cm} cm</br>głębokość: {dimension3-cm} cm"
+      }
+    },
+    "Rw2": {
+      "price": 185,
+      "dimensions": [
+        25,
+        60,
+        30,
+        26,
+        33
+      ],
+      "images": [
+        {
+          "src": "/products/gallery/roe-deer/Rw2-1.JPG",
+          "thumbnail": "/products/thumbnails/roe-deer/Rw2-1.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/gallery/roe-deer/Rw2-2.JPG",
+          "thumbnail": "/products/thumbnails/roe-deer/Rw2-2.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/gallery/roe-deer/Rw2-3.JPG",
+          "thumbnail": "/products/thumbnails/roe-deer/Rw2-3.webp",
+          "key": 3
+        }
+      ],
+      "en-GB": {
+        "title": "Roe Deer Shoulder Mount (winter) + oval shield",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield height: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "en-US": {
+        "title": "Roe Deer Shoulder Mount (winter) + oval shield",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield height: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "de-DE": {
+        "title": "Rehbock Kopf Präparat (Winter) + ovaler Schild",
+        "descriptionTemplate": "Breite: {dimension1-cm} cm</br>Höhe: {dimension2-cm} cm</br>Tiefe: {dimension3-cm} cm</br>Schildbreite: {dimension4-cm} cm</br>Schildhöhe: {dimension5-cm} cm"
+      },
+      "pl-PL": {
+        "title": "Medalion sarny (zimowy) na owalnej desce",
+        "descriptionTemplate": "szerokość: {dimension1-cm} cm</br>wysokość: {dimension2-cm} cm</br>głębokość: {dimension3-cm} cm</br>szerokość deski: {dimension4-cm} cm</br>wysokość deski: {dimension5-cm} cm"
+      }
+    },
+    "Rw5": {
+      "price": 220,
+      "dimensions": [
+        25,
+        60,
+        30,
+        32,
+        49
+      ],
+      "images": [
+        {
+          "src": "/products/gallery/roe-deer/Rw5-2.JPG",
+          "thumbnail": "/products/thumbnails/roe-deer/Rw5-2.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/gallery/roe-deer/Rw5-1.JPG",
+          "thumbnail": "/products/thumbnails/roe-deer/Rw5-1.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/gallery/roe-deer/Rw5-3.JPG",
+          "thumbnail": "/products/thumbnails/roe-deer/Rw5-3.webp",
+          "key": 3
+        },
+        {
+          "src": "/products/gallery/roe-deer/Rw5-4.JPG",
+          "thumbnail": "/products/thumbnails/roe-deer/Rw5-4.webp",
+          "key": 4
+        }
+      ],
+      "en-GB": {
+        "title": "Roe Deer Shoulder Mount (winter) + carved shield no. 5",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch} \"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield height: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "en-US": {
+        "title": "Roe Deer Shoulder Mount (winter) + carved shield no. 5",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch} \"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield height: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "de-DE": {
+        "title": "Rehbock Kopf Präparat (Winter) + geschnitzter Schild nr 5",
+        "descriptionTemplate": "Breite: {dimension1-cm} cm</br>Höhe: {dimension2-cm} cm</br>Tiefe: {dimension3-cm} cm</br>Schildbreite: {dimension4-cm} cm</br>Schildhöhe: {dimension5-cm} cm"
+      },
+      "pl-PL": {
+        "title": "Medalion sarny (zimowy) na rzeźbionej desce nr 5",
+        "descriptionTemplate": "szerokość: {dimension1-cm} cm</br>wysokość: {dimension2-cm} cm</br>głębokość: {dimension3-cm} cm</br>szerokość deski: {dimension4-cm} cm</br>wysokość deski: {dimension5-cm} cm"
+      }
+    },
+    "Rw6": {
+      "price": 240,
+      "dimensions": [
+        25,
+        60,
+        30,
+        36,
+        50
+      ],
+      "images": [
+        {
+          "src": "/products/gallery/roe-deer/Rw6-2.JPG",
+          "thumbnail": "/products/thumbnails/roe-deer/Rw6-2.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/gallery/roe-deer/Rw6-1.JPG",
+          "thumbnail": "/products/thumbnails/roe-deer/Rw6-1.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/gallery/roe-deer/Rw6-3.JPG",
+          "thumbnail": "/products/thumbnails/roe-deer/Rw6-3.webp",
+          "key": 3
+        },
+        {
+          "src": "/products/gallery/roe-deer/Rw6-4.JPG",
+          "thumbnail": "/products/thumbnails/roe-deer/Rw6-4.webp",
+          "key": 4
+        }
+      ],
+      "en-GB": {
+        "title": "Roe Deer Shoulder Mount (winter) + carved shield no. 6",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch} \"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield height: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "en-US": {
+        "title": "Roe Deer Shoulder Mount (winter) + carved shield no. 6",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch} \"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield height: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "de-DE": {
+        "title": "Rehbock Kopf Präparat (Winter) + geschnitzter Schild nr 6",
+        "descriptionTemplate": "Breite: {dimension1-cm} cm</br>Höhe: {dimension2-cm} cm</br>Tiefe: {dimension3-cm} cm</br>Schildbreite: {dimension4-cm} cm</br>Schildhöhe: {dimension5-cm} cm"
+      },
+      "pl-PL": {
+        "title": "Medalion sarny (zimowy) na rzeźbionej desce nr 6",
+        "descriptionTemplate": "szerokość: {dimension1-cm} cm</br>wysokość: {dimension2-cm} cm</br>głębokość: {dimension3-cm} cm</br>szerokość deski: {dimension4-cm} cm</br>wysokość deski: {dimension5-cm} cm"
+      }
+    },
+    "Rw7": {
+      "price": 240,
+      "dimensions": [
+        25,
+        60,
+        30,
+        46,
+        45
+      ],
+      "images": [
+        {
+          "src": "/products/gallery/roe-deer/Rw7-3.JPG",
+          "thumbnail": "/products/thumbnails/roe-deer/Rw7-3.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/gallery/roe-deer/Rw7-1.JPG",
+          "thumbnail": "/products/thumbnails/roe-deer/Rw7-1.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/gallery/roe-deer/Rw7-2.JPG",
+          "thumbnail": "/products/thumbnails/roe-deer/Rw7-2.webp",
+          "key": 3
+        },
+        {
+          "src": "/products/gallery/roe-deer/Rw7-4.JPG",
+          "thumbnail": "/products/thumbnails/roe-deer/Rw7-4.webp",
+          "key": 4
+        }
+      ],
+      "en-GB": {
+        "title": "Roe Deer Shoulder Mount (winter) + carved shield no. 7",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch} \"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield height: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "en-US": {
+        "title": "Roe Deer Shoulder Mount (winter) + carved shield no. 7",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch} \"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield height: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "de-DE": {
+        "title": "Rehbock Kopf Präparat (Winter) + geschnitzter Schild nr 7",
+        "descriptionTemplate": "Breite: {dimension1-cm} cm</br>Höhe: {dimension2-cm} cm</br>Tiefe: {dimension3-cm} cm</br>Schildbreite: {dimension4-cm} cm</br>Schildhöhe: {dimension5-cm} cm"
+      },
+      "pl-PL": {
+        "title": "Medalion sarny (zimowy) na rzeźbionej desce nr 7",
+        "descriptionTemplate": "szerokość: {dimension1-cm} cm</br>wysokość: {dimension2-cm} cm</br>głębokość: {dimension3-cm} cm</br>szerokość deski: {dimension4-cm} cm</br>wysokość deski: {dimension5-cm} cm"
+      }
+    },
+    "Rw8": {
+      "price": 230,
+      "dimensions": [
+        25,
+        60,
+        30,
+        36,
+        41
+      ],
+      "images": [
+        {
+          "src": "/products/gallery/roe-deer/Rw8-1.JPG",
+          "thumbnail": "/products/thumbnails/roe-deer/Rw8-1.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/gallery/roe-deer/Rw8-2.JPG",
+          "thumbnail": "/products/thumbnails/roe-deer/Rw8-2.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/gallery/roe-deer/Rw8-3.JPG",
+          "thumbnail": "/products/thumbnails/roe-deer/Rw8-3.webp",
+          "key": 3
+        }
+      ],
+      "en-GB": {
+        "title": "Roe Deer Shoulder Mount (winter) + carved shield no. 8",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch} \"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield height: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "en-US": {
+        "title": "Roe Deer Shoulder Mount (winter) + carved shield no. 8",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch} \"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield height: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "de-DE": {
+        "title": "Rehbock Kopf Präparat (Winter) + geschnitzter Schild nr 8",
+        "descriptionTemplate": "Breite: {dimension1-cm} cm</br>Höhe: {dimension2-cm} cm</br>Tiefe: {dimension3-cm} cm</br>Schildbreite: {dimension4-cm} cm</br>Schildhöhe: {dimension5-cm} cm"
+      },
+      "pl-PL": {
+        "title": "Medalion sarny (zimowy) na rzeźbionej desce nr 8",
+        "descriptionTemplate": "szerokość: {dimension1-cm} cm</br>wysokość: {dimension2-cm} cm</br>głębokość: {dimension3-cm} cm</br>szerokość deski: {dimension4-cm} cm</br>wysokość deski: {dimension5-cm} cm"
+      }
+    }
+  },
+  "wildBoar": {
+    "Ws": {
+      "price": 155,
+      "dimensions": [
+        25,
+        35,
+        35
+      ],
+      "images": [
+        {
+          "src": "/products/gallery/wild-boar/Ws-1.JPG",
+          "thumbnail": "/products/thumbnails/wild-boar/Ws-1.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/gallery/wild-boar/Ws-2.JPG",
+          "thumbnail": "/products/thumbnails/wild-boar/Ws-2.webp",
+          "key": 2
+        }
+      ],
+      "en-GB": {
+        "title": "Wild Boar Shoulder Mount small",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\""
+      },
+      "en-US": {
+        "title": "Wild Boar Shoulder Mount small",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\""
+      },
+      "de-DE": {
+        "title": "Wildschweinkopf kleines",
+        "descriptionTemplate": "Breite: {dimension1-cm} cm</br>Höhe: {dimension2-cm} cm</br>Tiefe: {dimension3-cm} cm</br>"
+      },
+      "pl-PL": {
+        "title": "Medalion dzika mały",
+        "descriptionTemplate": "szerokość: {dimension1-cm} cm</br>wysokość: {dimension2-cm} cm</br>głębokość: {dimension3-cm} cm"
+      }
+    },
+    "Ws1": {
+      "price": 190,
+      "dimensions": [
+        25,
+        35,
+        35,
+        39,
+        50
+      ],
+      "images": [
+        {
+          "src": "/products/gallery/wild-boar/Ws1-1.JPG",
+          "thumbnail": "/products/thumbnails/wild-boar/Ws1-1.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/gallery/wild-boar/Ws1-2.JPG",
+          "thumbnail": "/products/thumbnails/wild-boar/Ws1-2.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/gallery/wild-boar/Ws1-3.JPG",
+          "thumbnail": "/products/thumbnails/wild-boar/Ws1-3.webp",
+          "key": 3
+        }
+      ],
+      "en-GB": {
+        "title": "Wild Boar Shoulder Mount small + shield",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm</br>shield height: {dimension5-cm} cm"
+      },
+      "en-US": {
+        "title": "Wild Boar Shoulder Mount small + shield",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm</br>shield height: {dimension5-cm} cm"
+      },
+      "de-DE": {
+        "title": "Wildschweinkopf kleines + Schild",
+        "descriptionTemplate": "Breite: {dimension1-cm} cm</br>Höhe: {dimension2-cm} cm</br>Tiefe: {dimension3-cm} cm</br>Schild Breite: {dimension4-cm} cm</br>Schild Höhe: {dimension5-cm} cm"
+      },
+      "pl-PL": {
+        "title": "Medalion dzika mały na desce",
+        "descriptionTemplate": "szerokość: {dimension1-cm} cm</br>wysokość: {dimension2-cm} cm</br>głębokość: {dimension3-cm} cm</br>szerokość deski: {dimension4-cm} cm</br>wysokość deski: {dimension5-cm} cm"
+      }
+    },
+    "Ws2": {
+      "price": 190,
+      "dimensions": [
+        25,
+        35,
+        35,
+        36,
+        55
+      ],
+      "images": [
+        {
+          "src": "/products/gallery/wild-boar/Ws2-1.JPG",
+          "thumbnail": "/products/thumbnails/wild-boar/Ws2-1.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/gallery/wild-boar/Ws2-2.JPG",
+          "thumbnail": "/products/thumbnails/wild-boar/Ws2-2.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/gallery/wild-boar/Ws2-3.JPG",
+          "thumbnail": "/products/thumbnails/wild-boar/Ws2-3.webp",
+          "key": 3
+        }
+      ],
+      "en-GB": {
+        "title": "Wild Boar Shoulder Mount small + oval shield",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm</br>shield height: {dimension5-cm} cm"
+      },
+      "en-US": {
+        "title": "Wild Boar Shoulder Mount small + oval shield",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm</br>shield height: {dimension5-cm} cm"
+      },
+      "de-DE": {
+        "title": "Wildschweinkopf kleines + ovaler Schild",
+        "descriptionTemplate": "Breite: {dimension1-cm} cm</br>Höhe: {dimension2-cm} cm</br>Tiefe: {dimension3-cm} cm</br>Schild Breite: {dimension4-cm} cm</br>Schild Höhe: {dimension5-cm} cm"
+      },
+      "pl-PL": {
+        "title": "Medalion dzika mały na owalnej desce",
+        "descriptionTemplate": "szerokość: {dimension1-cm} cm</br>wysokość: {dimension2-cm} cm</br>głębokość: {dimension3-cm} cm</br>szerokość deski: {dimension4-cm} cm</br>wysokość deski: {dimension5-cm} cm"
+      }
+    },
+    "Wss": {
+      "price": 175,
+      "dimensions": [
+        25,
+        35,
+        35
+      ],
+      "images": [
+        {
+          "src": "/products/gallery/wild-boar/Wss-1.JPG",
+          "thumbnail": "/products/thumbnails/wild-boar/Wss-1.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/gallery/wild-boar/Wss-2.JPG",
+          "thumbnail": "/products/thumbnails/wild-boar/Wss-2.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/gallery/wild-boar/Wss-3.JPG",
+          "thumbnail": "/products/thumbnails/wild-boar/Wss-3.webp",
+          "key": 3
+        }
+      ],
+      "en-GB": {
+        "title": "Wild Boar Shoulder Mount small spotted",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\""
+      },
+      "en-US": {
+        "title": "Wild Boar Shoulder Mount small spotted",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\""
+      },
+      "de-DE": {
+        "title": "Wildschweinkopf kleines gefleckt",
+        "descriptionTemplate": "Breite: {dimension1-cm} cm</br>Höhe: {dimension2-cm} cm</br>Tiefe: {dimension3-cm} cm"
+      },
+      "pl-PL": {
+        "title": "Medalion dzika mały łaciaty",
+        "descriptionTemplate": "szerokość: {dimension1-cm} cm</br>wysokość: {dimension2-cm} cm</br>głębokość: {dimension3-cm} cm"
+      }
+    },
+    "Wss1": {
+      "price": 210,
+      "dimensions": [
+        25,
+        35,
+        35,
+        39,
+        50
+      ],
+      "images": [
+        {
+          "src": "/products/gallery/wild-boar/Wss1-1.JPG",
+          "thumbnail": "/products/thumbnails/wild-boar/Wss1-1.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/gallery/wild-boar/Wss1-2.JPG",
+          "thumbnail": "/products/thumbnails/wild-boar/Wss1-2.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/gallery/wild-boar/Wss1-3.JPG",
+          "thumbnail": "/products/thumbnails/wild-boar/Wss1-3.webp",
+          "key": 3
+        }
+      ],
+      "en-GB": {
+        "title": "Wild Boar Shoulder Mount small spotted + shield",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\""
+      },
+      "en-US": {
+        "title": "Wild Boar Shoulder Mount small spotted + shield",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\""
+      },
+      "de-DE": {
+        "title": "Wildschweinkopf kleines gefleckt + Schild",
+        "descriptionTemplate": "Breite: {dimension1-cm} cm</br>Höhe: {dimension2-cm} cm</br>Tiefe: {dimension3-cm} cm</br>"
+      },
+      "pl-PL": {
+        "title": "Medalion dzika mały łaciaty na desce",
+        "descriptionTemplate": "szerokość: {dimension1-cm} cm</br>wysokość: {dimension2-cm} cm</br>głębokość: {dimension3-cm} cm"
+      }
+    },
+    "Wss2": {
+      "price": 210,
+      "dimensions": [
+        25,
+        35,
+        35,
+        36,
+        55
+      ],
+      "images": [
+        {
+          "src": "/products/gallery/wild-boar/Wss2-1.JPG",
+          "thumbnail": "/products/thumbnails/wild-boar/Wss2-1.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/gallery/wild-boar/Wss2-2.JPG",
+          "thumbnail": "/products/thumbnails/wild-boar/Wss2-2.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/gallery/wild-boar/Wss2-3.JPG",
+          "thumbnail": "/products/thumbnails/wild-boar/Wss2-3.webp",
+          "key": 3
+        }
+      ],
+      "en-GB": {
+        "title": "Wild Boar Shoulder Mount small spotted + oval shield",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\""
+      },
+      "en-US": {
+        "title": "Wild Boar Shoulder Mount small spotted + oval shield",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\""
+      },
+      "de-DE": {
+        "title": "Wildschweinkopf kleines gefleckt + ovaler Schild",
+        "descriptionTemplate": "Breite: {dimension1-cm} cm</br>Höhe: {dimension2-cm} cm</br>Tiefe: {dimension3-cm} cm</br>"
+      },
+      "pl-PL": {
+        "title": "Medalion dzika mały łaciaty na owalnej desce",
+        "descriptionTemplate": "szerokość: {dimension1-cm} cm</br>wysokość: {dimension2-cm} cm</br>głębokość: {dimension3-cm} cm"
+      }
+    },
+    "Wm": {
+      "price": 175,
+      "dimensions": [
+        33,
+        47,
+        47
+      ],
+      "images": [
+        {
+          "src": "/products/gallery/wild-boar/Wm-1.JPG",
+          "thumbnail": "/products/thumbnails/wild-boar/Wm-1.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/gallery/wild-boar/Wm-2.JPG",
+          "thumbnail": "/products/thumbnails/wild-boar/Wm-2.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/gallery/wild-boar/Wm-3.JPG",
+          "thumbnail": "/products/thumbnails/wild-boar/Wm-3.webp",
+          "key": 3
+        }
+      ],
+      "en-US": {
+        "title": "Wild Boar Shoulder Mount mid",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\""
+      },
+      "en-GB": {
+        "title": "Wild Boar Shoulder Mount mid",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\""
+      },
+      "de-DE": {
+        "title": "Wildschweinkopf mittel",
+        "descriptionTemplate": "Breite: {dimension1-cm} cm</br>Höhe: {dimension2-cm} cm</br>Tiefe: {dimension3-cm} cm</br>"
+      },
+      "pl-PL": {
+        "title": "Medalion dzika średni",
+        "descriptionTemplate": "szerokość: {dimension1-cm} cm</br>wysokość: {dimension2-cm} cm</br>głębokość: {dimension3-cm} cm"
+      }
+    },
+    "Wm5": {
+      "price": 255,
+      "dimensions": [
+        33,
+        47,
+        47,
+        43,
+        65
+      ],
+      "images": [
+        {
+          "src": "/products/gallery/wild-boar/Wm5-1.JPG",
+          "thumbnail": "/products/thumbnails/wild-boar/Wm5-1.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/gallery/wild-boar/Wm5-2.JPG",
+          "thumbnail": "/products/thumbnails/wild-boar/Wm5-2.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/gallery/wild-boar/Wm5-3.JPG",
+          "thumbnail": "/products/thumbnails/wild-boar/Wm5-3.webp",
+          "key": 3
+        }
+      ],
+      "en-US": {
+        "title": "Wild Boar Shoulder Mount mid + carved shield no. 5",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield height: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "en-GB": {
+        "title": "Wild Boar Shoulder Mount mid + carved shield no. 5",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield height: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "de-DE": {
+        "title": "Wildschweinkopf mittel + geschnitzter Schild nr 5",
+        "descriptionTemplate": "Breite: {dimension1-cm} cm</br>Höhe: {dimension2-cm} cm</br>Tiefe: {dimension3-cm} cm</br>Schildbreite: {dimension4-cm} cm</br>Schildhöhe: {dimension5-cm} cm</br>"
+      },
+      "pl-PL": {
+        "title": "Medalion dzika średni na rzeźbionej desce nr 5",
+        "descriptionTemplate": "szerokość: {dimension1-cm} cm</br>wysokość: {dimension2-cm} cm</br>głębokość: {dimension3-cm} cm</br>szerokość deski: {dimension4-cm} cm</br>wysokość deski: {dimension5-cm} cm"
+      }
+    },
+    "Wms": {
+      "price": 200,
+      "dimensions": [
+        33,
+        47,
+        47
+      ],
+      "images": [
+        {
+          "src": "/products/gallery/wild-boar/Wms-1.JPG",
+          "thumbnail": "/products/thumbnails/wild-boar/Wms-1.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/gallery/wild-boar/Wms-2.JPG",
+          "thumbnail": "/products/thumbnails/wild-boar/Wms-2.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/gallery/wild-boar/Wms-3.JPG",
+          "thumbnail": "/products/thumbnails/wild-boar/Wms-3.webp",
+          "key": 3
+        }
+      ],
+      "en-US": {
+        "title": "Wild Boar Shoulder Mount mid spotted",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\""
+      },
+      "en-GB": {
+        "title": "Wild Boar Shoulder Mount mid spotted",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\""
+      },
+      "de-DE": {
+        "title": "Wildschweinkopf mittel gefleckt",
+        "descriptionTemplate": "Breite: {dimension1-cm} cm</br>Höhe: {dimension2-cm} cm</br>Tiefe: {dimension3-cm} cm</br>"
+      },
+      "pl-PL": {
+        "title": "Medalion dzika średni łaciaty",
+        "descriptionTemplate": "szerokość: {dimension1-cm} cm</br>wysokość: {dimension2-cm} cm</br>głębokość: {dimension3-cm} cm"
+      }
+    },
+    "Wb": {
+      "price": 220,
+      "dimensions": [
+        38,
+        57,
+        50
+      ],
+      "images": [
+        {
+          "src": "/products/gallery/wild-boar/Wb-1.JPG",
+          "thumbnail": "/products/thumbnails/wild-boar/Wb-1.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/gallery/wild-boar/Wb-2.JPG",
+          "thumbnail": "/products/thumbnails/wild-boar/Wb-2.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/gallery/wild-boar/Wb-3.JPG",
+          "thumbnail": "/products/thumbnails/wild-boar/Wb-3.webp",
+          "key": 3
+        }
+      ],
+      "en-US": {
+        "title": "Wild Boar Shoulder Mount big",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\""
+      },
+      "en-GB": {
+        "title": "Wild Boar Shoulder Mount big",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\""
+      },
+      "de-DE": {
+        "title": "Wildschweinkopf groß",
+        "descriptionTemplate": "Breite: {dimension1-cm} cm</br>Höhe: {dimension2-cm} cm</br>Tiefe: {dimension3-cm} cm</br>"
+      },
+      "pl-PL": {
+        "title": "Medalion dzika duży",
+        "descriptionTemplate": "szerokość: {dimension1-cm} cm</br>wysokość: {dimension2-cm} cm</br>głębokość: {dimension3-cm} cm"
+      }
+    },
+    "Wb1": {
+      "price": 260,
+      "dimensions": [
+        38,
+        57,
+        50,
+        50,
+        70
+      ],
+      "images": [
+        {
+          "src": "/products/gallery/wild-boar/Wb1-1.JPG",
+          "thumbnail": "/products/thumbnails/wild-boar/Wb1-1.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/gallery/wild-boar/Wb1-2.JPG",
+          "thumbnail": "/products/thumbnails/wild-boar/Wb1-2.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/gallery/wild-boar/Wb1-3.JPG",
+          "thumbnail": "/products/thumbnails/wild-boar/Wb1-3.webp",
+          "key": 3
+        }
+      ],
+      "en-US": {
+        "title": "Wild Boar Shoulder Mount big + shield",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield height: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "en-GB": {
+        "title": "Wild Boar Shoulder Mount big + shield",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield height: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "de-DE": {
+        "title": "Wildschweinkopf groß + Schild",
+        "descriptionTemplate": "Breite: {dimension1-cm} cm</br>Höhe: {dimension2-cm} cm</br>Tiefe: {dimension3-cm} cm</br>Schildbreite: {dimension4-cm} cm</br>Schildhöhe: {dimension5-cm} cm</br>"
+      },
+      "pl-PL": {
+        "title": "Medalion dzika duży na desce",
+        "descriptionTemplate": "szerokość: {dimension1-cm} cm</br>wysokość: {dimension2-cm} cm</br>głębokość: {dimension3-cm} cm</br>szerokość deski: {dimension4-cm} cm</br>wysokość deski: {dimension5-cm} cm"
+      }
+    },
+    "Wb2": {
+      "price": 260,
+      "dimensions": [
+        38,
+        57,
+        50,
+        48,
+        70
+      ],
+      "images": [
+        {
+          "src": "/products/gallery/wild-boar/Wb2-1.JPG",
+          "thumbnail": "/products/thumbnails/wild-boar/Wb2-1.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/gallery/wild-boar/Wb2-2.JPG",
+          "thumbnail": "/products/thumbnails/wild-boar/Wb2-2.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/gallery/wild-boar/Wb2-3.JPG",
+          "thumbnail": "/products/thumbnails/wild-boar/Wb2-3.webp",
+          "key": 3
+        }
+      ],
+      "en-US": {
+        "title": "Wild Boar Shoulder Mount big + oval shield",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield height: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "en-GB": {
+        "title": "Wild Boar Shoulder Mount big + oval shield",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield height: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "de-DE": {
+        "title": "Wildschweinkopf groß + ovaler Schild",
+        "descriptionTemplate": "Breite: {dimension1-cm} cm</br>Höhe: {dimension2-cm} cm</br>Tiefe: {dimension3-cm} cm</br>Schildbreite: {dimension4-cm} cm</br>Schildhöhe: {dimension5-cm} cm</br>"
+      },
+      "pl-PL": {
+        "title": "Medalion dzika duży na owalnej desce",
+        "descriptionTemplate": "szerokość: {dimension1-cm} cm</br>wysokość: {dimension2-cm} cm</br>głębokość: {dimension3-cm} cm</br>szerokość deski: {dimension4-cm} cm</br>wysokość deski: {dimension5-cm} cm"
+      }
+    },
+    "Wb5": {
+      "price": 310,
+      "dimensions": [
+        38,
+        57,
+        50,
+        46,
+        73
+      ],
+      "images": [
+        {
+          "src": "/products/gallery/wild-boar/Wb5-1.JPG",
+          "thumbnail": "/products/thumbnails/wild-boar/Wb5-1.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/gallery/wild-boar/Wb5-2.JPG",
+          "thumbnail": "/products/thumbnails/wild-boar/Wb5-2.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/gallery/wild-boar/Wb5-3.JPG",
+          "thumbnail": "/products/thumbnails/wild-boar/Wb5-3.webp",
+          "key": 3
+        }
+      ],
+      "en-US": {
+        "title": "Wild Boar Shoulder Mount big + carved shield no. 5",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield height: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "en-GB": {
+        "title": "Wild Boar Shoulder Mount big + carved shield no. 5",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield height: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "de-DE": {
+        "title": "Wildschweinkopf groß + geschnitzter Schild nr 5",
+        "descriptionTemplate": "Breite: {dimension1-cm} cm</br>Höhe: {dimension2-cm} cm</br>Tiefe: {dimension3-cm} cm</br>Schildbreite: {dimension4-cm} cm</br>Schildhöhe: {dimension5-cm} cm</br>"
+      },
+      "pl-PL": {
+        "title": "Medalion dzika duży na rzeźbionej desce nr 5",
+        "descriptionTemplate": "szerokość: {dimension1-cm} cm</br>wysokość: {dimension2-cm} cm</br>głębokość: {dimension3-cm} cm</br>szerokość deski: {dimension4-cm} cm</br>wysokość deski: {dimension5-cm} cm"
+      }
+    },
+    "Wb6": {
+      "price": 375,
+      "dimensions": [
+        38,
+        57,
+        50,
+        63,
+        85
+      ],
+      "images": [
+        {
+          "src": "/products/gallery/wild-boar/Wb6-1.JPG",
+          "thumbnail": "/products/thumbnails/wild-boar/Wb6-1.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/gallery/wild-boar/Wb6-2.JPG",
+          "thumbnail": "/products/thumbnails/wild-boar/Wb6-2.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/gallery/wild-boar/Wb6-3.JPG",
+          "thumbnail": "/products/thumbnails/wild-boar/Wb6-3.webp",
+          "key": 3
+        }
+      ],
+      "en-US": {
+        "title": "Wild Boar Shoulder Mount big + carved shield no. 6",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield height: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "en-GB": {
+        "title": "Wild Boar Shoulder Mount big + carved shield no. 6",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield height: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "de-DE": {
+        "title": "Wildschweinkopf groß + geschnitzter Schild nr 6",
+        "descriptionTemplate": "Breite: {dimension1-cm} cm</br>Höhe: {dimension2-cm} cm</br>Tiefe: {dimension3-cm} cm</br>Schildbreite: {dimension4-cm} cm</br>Schildhöhe: {dimension5-cm} cm</br>"
+      },
+      "pl-PL": {
+        "title": "Medalion dzika duży na rzeźbionej desce nr 6",
+        "descriptionTemplate": "szerokość: {dimension1-cm} cm</br>wysokość: {dimension2-cm} cm</br>głębokość: {dimension3-cm} cm</br>szerokość deski: {dimension4-cm} cm</br>wysokość deski: {dimension5-cm} cm"
+      }
+    },
+    "Wb7": {
+      "price": 375,
+      "dimensions": [
+        38,
+        57,
+        50,
+        67,
+        77
+      ],
+      "images": [
+        {
+          "src": "/products/gallery/wild-boar/Wb7-1.JPG",
+          "thumbnail": "/products/thumbnails/wild-boar/Wb7-1.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/gallery/wild-boar/Wb7-2.JPG",
+          "thumbnail": "/products/thumbnails/wild-boar/Wb7-2.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/gallery/wild-boar/Wb7-3.JPG",
+          "thumbnail": "/products/thumbnails/wild-boar/Wb7-3.webp",
+          "key": 3
+        }
+      ],
+      "en-US": {
+        "title": "Wild Boar Shoulder Mount big + carved shield no. 7",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield height: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "en-GB": {
+        "title": "Wild Boar Shoulder Mount big + carved shield no. 7",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield height: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "de-DE": {
+        "title": "Wildschweinkopf groß + geschnitzter Schild nr 7",
+        "descriptionTemplate": "Breite: {dimension1-cm} cm</br>Höhe: {dimension2-cm} cm</br>Tiefe: {dimension3-cm} cm</br>Schildbreite: {dimension4-cm} cm</br>Schildhöhe: {dimension5-cm} cm</br>"
+      },
+      "pl-PL": {
+        "title": "Medalion dzika duży na rzeźbionej desce nr 7",
+        "descriptionTemplate": "szerokość: {dimension1-cm} cm</br>wysokość: {dimension2-cm} cm</br>głębokość: {dimension3-cm} cm</br>szerokość deski: {dimension4-cm} cm</br>wysokość deski: {dimension5-cm} cm"
+      }
+    },
+    "Wb8": {
+      "price": 340,
+      "dimensions": [
+        38,
+        57,
+        50,
+        56,
+        78
+      ],
+      "images": [
+        {
+          "src": "/products/gallery/wild-boar/Wb8-1.JPG",
+          "thumbnail": "/products/thumbnails/wild-boar/Wb8-1.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/gallery/wild-boar/Wb8-2.JPG",
+          "thumbnail": "/products/thumbnails/wild-boar/Wb8-2.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/gallery/wild-boar/Wb8-3.JPG",
+          "thumbnail": "/products/thumbnails/wild-boar/Wb8-3.webp",
+          "key": 3
+        }
+      ],
+      "en-US": {
+        "title": "Wild Boar Shoulder Mount big + carved shield no. 8",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield height: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "en-GB": {
+        "title": "Wild Boar Shoulder Mount big + carved shield no. 8",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield height: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "de-DE": {
+        "title": "Wildschweinkopf groß + geschnitzter Schild nr 8",
+        "descriptionTemplate": "Breite: {dimension1-cm} cm</br>Höhe: {dimension2-cm} cm</br>Tiefe: {dimension3-cm} cm</br>Schildbreite: {dimension4-cm} cm</br>Schildhöhe: {dimension5-cm} cm</br>"
+      },
+      "pl-PL": {
+        "title": "Medalion dzika duży na rzeźbionej desce nr 8",
+        "descriptionTemplate": "szerokość: {dimension1-cm} cm</br>wysokość: {dimension2-cm} cm</br>głębokość: {dimension3-cm} cm</br>szerokość deski: {dimension4-cm} cm</br>wysokość deski: {dimension5-cm} cm"
+      }
+    },
+    "Wbs": {
+      "price": 250,
+      "dimensions": [
+        38,
+        57,
+        50
+      ],
+      "images": [
+        {
+          "src": "/products/gallery/wild-boar/Wbs-1.JPG",
+          "thumbnail": "/products/thumbnails/wild-boar/Wbs-1.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/gallery/wild-boar/Wbs-2.JPG",
+          "thumbnail": "/products/thumbnails/wild-boar/Wbs-2.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/gallery/wild-boar/Wbs-3.JPG",
+          "thumbnail": "/products/thumbnails/wild-boar/Wbs-3.webp",
+          "key": 3
+        }
+      ],
+      "en-US": {
+        "title": "Wild Boar Shoulder Mount big spotted",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\""
+      },
+      "en-GB": {
+        "title": "Wild Boar Shoulder Mount big spotted",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\""
+      },
+      "de-DE": {
+        "title": "Wildschweinkopf groß gefleckt",
+        "descriptionTemplate": "Breite: {dimension1-cm} cm</br>Höhe: {dimension2-cm} cm</br>Tiefe: {dimension3-cm} cm</br>"
+      },
+      "pl-PL": {
+        "title": "Medalion dzika duży łaciaty",
+        "descriptionTemplate": "szerokość: {dimension1-cm} cm</br>wysokość: {dimension2-cm} cm</br>głębokość: {dimension3-cm} cm"
+      }
+    },
+    "Wbs1": {
+      "price": 290,
+      "dimensions": [
+        38,
+        57,
+        50,
+        50,
+        70
+      ],
+      "images": [
+        {
+          "src": "/products/gallery/wild-boar/Wbs1-1.JPG",
+          "thumbnail": "/products/thumbnails/wild-boar/Wbs1-1.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/gallery/wild-boar/Wbs1-2.JPG",
+          "thumbnail": "/products/thumbnails/wild-boar/Wbs1-2.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/gallery/wild-boar/Wbs1-3.JPG",
+          "thumbnail": "/products/thumbnails/wild-boar/Wbs1-3.webp",
+          "key": 3
+        }
+      ],
+      "en-US": {
+        "title": "Wild Boar Shoulder Mount big spotted + shield",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield height: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "en-GB": {
+        "title": "Wild Boar Shoulder Mount big spotted + shield",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield height: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "de-DE": {
+        "title": "Wildschweinkopf groß gefleckt + Schild",
+        "descriptionTemplate": "Breite: {dimension1-cm} cm</br>Höhe: {dimension2-cm} cm</br>Tiefe: {dimension3-cm} cm</br>Schildbreite: {dimension4-cm} cm</br>Schildhöhe: {dimension5-cm} cm</br>"
+      },
+      "pl-PL": {
+        "title": "Medalion dzika duży łaciaty na desce",
+        "descriptionTemplate": "szerokość: {dimension1-cm} cm</br>wysokość: {dimension2-cm} cm</br>głębokość: {dimension3-cm} cm</br>szerokość deski: {dimension4-cm} cm</br>wysokość deski: {dimension5-cm} cm"
+      }
+    },
+    "Wbs5": {
+      "price": 340,
+      "dimensions": [
+        38,
+        57,
+        50,
+        46,
+        73
+      ],
+      "images": [
+        {
+          "src": "/products/gallery/wild-boar/Wbs5-1.JPG",
+          "thumbnail": "/products/thumbnails/wild-boar/Wbs5-1.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/gallery/wild-boar/Wbs5-2.JPG",
+          "thumbnail": "/products/thumbnails/wild-boar/Wbs5-2.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/gallery/wild-boar/Wbs5-3.JPG",
+          "thumbnail": "/products/thumbnails/wild-boar/Wbs5-3.webp",
+          "key": 3
+        }
+      ],
+      "en-US": {
+        "title": "Wild Boar Shoulder Mount big spotted + carved shield no. 5",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield height: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "en-GB": {
+        "title": "Wild Boar Shoulder Mount big spotted + carved shield no. 5",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield height: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "de-DE": {
+        "title": "Wildschweinkopf groß gefleckt + geschnitzter Schild nr 5",
+        "descriptionTemplate": "Breite: {dimension1-cm} cm</br>Höhe: {dimension2-cm} cm</br>Tiefe: {dimension3-cm} cm</br>Schildbreite: {dimension4-cm} cm</br>Schildhöhe: {dimension5-cm} cm</br>"
+      },
+      "pl-PL": {
+        "title": "Medalion dzika duży łaciaty na rzeźbionej desce nr 5",
+        "descriptionTemplate": "szerokość: {dimension1-cm} cm</br>wysokość: {dimension2-cm} cm</br>głębokość: {dimension3-cm} cm</br>szerokość deski: {dimension4-cm} cm</br>wysokość deski: {dimension5-cm} cm"
+      }
+    },
+    "Wv": {
+      "price": 300,
+      "dimensions": [
+        40,
+        63,
+        55
+      ],
+      "images": [
+        {
+          "src": "/products/gallery/wild-boar/Wv-1.JPG",
+          "thumbnail": "/products/thumbnails/wild-boar/Wv-1.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/gallery/wild-boar/Wv-2.JPG",
+          "thumbnail": "/products/thumbnails/wild-boar/Wv-2.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/gallery/wild-boar/Wv-3.JPG",
+          "thumbnail": "/products/thumbnails/wild-boar/Wv-3.webp",
+          "key": 3
+        }
+      ],
+      "en-US": {
+        "title": "Wild Boar Shoulder Mount very big",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\""
+      },
+      "en-GB": {
+        "title": "Wild Boar Shoulder Mount very big",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\""
+      },
+      "de-DE": {
+        "title": "Wildschweinkopf sehr groß",
+        "descriptionTemplate": "Breite: {dimension1-cm} cm</br>Höhe: {dimension2-cm} cm</br>Tiefe: {dimension3-cm} cm</br>"
+      },
+      "pl-PL": {
+        "title": "Medalion dzika bardzo duży",
+        "descriptionTemplate": "szerokość: {dimension1-cm} cm</br>wysokość: {dimension2-cm} cm</br>głębokość: {dimension3-cm} cm"
+      }
+    }
+  },
+  "predators": {
+    "F": {
+      "price": 125,
+      "dimensions": [
+        18,
+        30,
+        24
+      ],
+      "images": [
+        {
+          "src": "/products/predators/F-1.JPG",
+          "thumbnail": "/products/thumbnails/predators/F-1.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/predators/F-2.JPG",
+          "thumbnail": "/products/thumbnails/predators/F-2.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/predators/F-3.JPG",
+          "thumbnail": "/products/thumbnails/predators/F-3.webp",
+          "key": 3
+        }
+      ],
+      "en-US": {
+        "title": "Red Fox Shoulder Mount",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\""
+      },
+      "en-GB": {
+        "title": "Red Fox Shoulder Mount",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\""
+      },
+      "de-DE": {
+        "title": "Fuchs Kopf Präparat",
+        "descriptionTemplate": "Breite: {dimension1-cm} cm</br>Höhe: {dimension2-cm} cm</br>Tiefe: {dimension3-cm} cm</br>"
+      },
+      "pl-PL": {
+        "title": "Medalion lisa",
+        "descriptionTemplate": "szerokość: {dimension1-cm} cm</br>wysokość: {dimension2-cm} cm</br>głębokość: {dimension3-cm} cm"
+      }
+    },
+    "Ft": {
+      "price": 130,
+      "dimensions": [
+        18,
+        30,
+        24
+      ],
+      "images": [
+        {
+          "src": "/products/predators/Ft-1.JPG",
+          "thumbnail": "/products/thumbnails/predators/Ft-1.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/predators/Ft-2.JPG",
+          "thumbnail": "/products/thumbnails/predators/Ft-2.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/predators/Ft-3.JPG",
+          "thumbnail": "/products/thumbnails/predators/Ft-3.webp",
+          "key": 3
+        }
+      ],
+      "en-US": {
+        "title": "Red Fox Shoulder Mount + tail",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\""
+      },
+      "en-GB": {
+        "title": "Red Fox Shoulder Mount + tail",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\""
+      },
+      "de-DE": {
+        "title": "Fuchs Kopf Präparat + Schwanz",
+        "descriptionTemplate": "Breite: {dimension1-cm} cm</br>Höhe: {dimension2-cm} cm</br>Tiefe: {dimension3-cm} cm</br>"
+      },
+      "pl-PL": {
+        "title": "Medalion lisa z ogonem",
+        "descriptionTemplate": "szerokość: {dimension1-cm} cm</br>wysokość: {dimension2-cm} cm</br>głębokość: {dimension3-cm} cm"
+      }
+    },
+    "F1": {
+      "price": 145,
+      "dimensions": [
+        18,
+        30,
+        24,
+        21,
+        28
+      ],
+      "images": [
+        {
+          "src": "/products/predators/F1-1.JPG",
+          "thumbnail": "/products/thumbnails/predators/F1-1.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/predators/F1-2.JPG",
+          "thumbnail": "/products/thumbnails/predators/F1-2.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/predators/F1-3.JPG",
+          "thumbnail": "/products/thumbnails/predators/F1-3.webp",
+          "key": 3
+        }
+      ],
+      "en-US": {
+        "title": "Red Fox Shoulder Mount + shield",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield length: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "en-GB": {
+        "title": "Red Fox Shoulder Mount + shield",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield length: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "de-DE": {
+        "title": "Fuchs Kopf Präparat + Schild",
+        "descriptionTemplate": "Breite: {dimension1-cm} cm</br>Höhe: {dimension2-cm} cm</br>Tiefe: {dimension3-cm} cm</br>Schildbreite: {dimension4-cm} cm</br>Schildlänge: {dimension5-cm} cm</br>"
+      },
+      "pl-PL": {
+        "title": "Medalion lisa na desce",
+        "descriptionTemplate": "szerokość: {dimension1-cm} cm</br>wysokość: {dimension2-cm} cm</br>głębokość: {dimension3-cm} cm</br>szerokość deski: {dimension4-cm} cm</br>długość deski: {dimension5-cm} cm"
+      }
+    },
+    "F2": {
+      "price": 145,
+      "dimensions": [
+        18,
+        30,
+        24,
+        24,
+        24
+      ],
+      "images": [
+        {
+          "src": "/products/predators/F2-1.JPG",
+          "thumbnail": "/products/thumbnails/predators/F2-1.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/predators/F2-2.JPG",
+          "thumbnail": "/products/thumbnails/predators/F2-2.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/predators/F2-3.JPG",
+          "thumbnail": "/products/thumbnails/predators/F2-3.webp",
+          "key": 3
+        }
+      ],
+      "en-US": {
+        "title": "Red Fox Shoulder Mount + oval shield",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield length: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "en-GB": {
+        "title": "Red Fox Shoulder Mount + oval shield",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield length: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "de-DE": {
+        "title": "Fuchs Kopf Präparat + ovaler Schild",
+        "descriptionTemplate": "Breite: {dimension1-cm} cm</br>Höhe: {dimension2-cm} cm</br>Tiefe: {dimension3-cm} cm</br>Schildbreite: {dimension4-cm} cm</br>Schildlänge: {dimension5-cm} cm</br>"
+      },
+      "pl-PL": {
+        "title": "Medalion lisa na owalnej desce",
+        "descriptionTemplate": "szerokość: {dimension1-cm} cm</br>wysokość: {dimension2-cm} cm</br>głębokość: {dimension3-cm} cm</br>szerokość deski: {dimension4-cm} cm</br>długość deski: {dimension5-cm} cm"
+      }
+    },
+    "F3": {
+      "price": 155,
+      "dimensions": [
+        18,
+        30,
+        24,
+        40,
+        40
+      ],
+      "images": [
+        {
+          "src": "/products/predators/F3-1.JPG",
+          "thumbnail": "/products/thumbnails/predators/F3-1.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/predators/F3-2.JPG",
+          "thumbnail": "/products/thumbnails/predators/F3-2.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/predators/F3-3.JPG",
+          "thumbnail": "/products/thumbnails/predators/F3-3.webp",
+          "key": 3
+        },
+        {
+          "src": "/products/predators/F3-4.JPG",
+          "thumbnail": "/products/thumbnails/predators/F3-4.webp",
+          "key": 4
+        }
+      ],
+      "en-US": {
+        "title": "Red Fox Shoulder Mount + big round shield",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield diameter: {dimension4-cm} cm, {dimension4-inch}\""
+      },
+      "en-GB": {
+        "title": "Red Fox Shoulder Mount + big round shield",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield diameter: {dimension4-cm} cm, {dimension4-inch}\""
+      },
+      "de-DE": {
+        "title": "Fuchs Kopf Präparat + großes rundes Schild",
+        "descriptionTemplate": "Breite: {dimension1-cm} cm</br>Höhe: {dimension2-cm} cm</br>Tiefe: {dimension3-cm} cm</br>Schilddurchmesser: {dimension4-cm} cm</br>"
+      },
+      "pl-PL": {
+        "title": "Medalion lisa na dużej okrągłej desce",
+        "descriptionTemplate": "szerokość: {dimension1-cm} cm</br>wysokość: {dimension2-cm} cm</br>głębokość: {dimension3-cm} cm</br>średnica deski: {dimension4-cm} cm"
+      }
+    },
+    "F4": {
+      "price": 155,
+      "dimensions": [
+        18,
+        30,
+        24,
+        45,
+        35
+      ],
+      "images": [
+        {
+          "src": "/products/predators/F4-1.JPG",
+          "thumbnail": "/products/thumbnails/predators/F4-1.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/predators/F4-2.JPG",
+          "thumbnail": "/products/thumbnails/predators/F4-2.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/predators/F4-3.JPG",
+          "thumbnail": "/products/thumbnails/predators/F4-3.webp",
+          "key": 3
+        },
+        {
+          "src": "/products/predators/F4-4.JPG",
+          "thumbnail": "/products/thumbnails/predators/F4-4.webp",
+          "key": 4
+        }
+      ],
+      "en-US": {
+        "title": "Red Fox Shoulder Mount + big oval shield",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield length: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "en-GB": {
+        "title": "Red Fox Shoulder Mount + big oval shield",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield length: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "de-DE": {
+        "title": "Fuchs Kopf Präparat + großes ovales Schild",
+        "descriptionTemplate": "Breite: {dimension1-cm} cm</br>Höhe: {dimension2-cm} cm</br>Tiefe: {dimension3-cm} cm</br>Schildbreite: {dimension4-cm} cm</br>Schildlänge: {dimension5-cm} cm</br>"
+      },
+      "pl-PL": {
+        "title": "Medalion lisa na dużej owalnej desce",
+        "descriptionTemplate": "szerokość: {dimension1-cm} cm</br>wysokość: {dimension2-cm} cm</br>głębokość: {dimension3-cm} cm</br>szerokość deski: {dimension4-cm} cm</br>długość deski: {dimension5-cm} cm"
+      }
+    },
+    "F5": {
+      "price": 185,
+      "dimensions": [
+        18,
+        30,
+        24,
+        48,
+        38
+      ],
+      "images": [
+        {
+          "src": "/products/predators/F5-1.JPG",
+          "thumbnail": "/products/thumbnails/predators/F5-1.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/predators/F5-2.JPG",
+          "thumbnail": "/products/thumbnails/predators/F5-2.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/predators/F5-3.JPG",
+          "thumbnail": "/products/thumbnails/predators/F5-3.webp",
+          "key": 3
+        },
+        {
+          "src": "/products/predators/F5-4.JPG",
+          "thumbnail": "/products/thumbnails/predators/F5-4.webp",
+          "key": 4
+        }
+      ],
+      "en-US": {
+        "title": "Red Fox Shoulder Mount + carved shield no. 5",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield length: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "en-GB": {
+        "title": "Red Fox Shoulder Mount + carved shield no. 5",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield length: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "de-DE": {
+        "title": "Fuchs Kopf Präparat + geschnitzter Schild nr. 5",
+        "descriptionTemplate": "Breite: {dimension1-cm} cm</br>Höhe: {dimension2-cm} cm</br>Tiefe: {dimension3-cm} cm</br>Schildbreite: {dimension4-cm} cm</br>Schildlänge: {dimension5-cm} cm</br>"
+      },
+      "pl-PL": {
+        "title": "Medalion lisa na rzeźbionej desce nr 5",
+        "descriptionTemplate": "szerokość: {dimension1-cm} cm</br>wysokość: {dimension2-cm} cm</br>głębokość: {dimension3-cm} cm</br>szerokość deski: {dimension4-cm} cm</br>długość deski: {dimension5-cm} cm"
+      }
+    },
+    "F6": {
+      "price": 200,
+      "dimensions": [
+        18,
+        30,
+        24,
+        50,
+        36
+      ],
+      "images": [
+        {
+          "src": "/products/predators/F6-1.JPG",
+          "thumbnail": "/products/thumbnails/predators/F6-1.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/predators/F6-2.JPG",
+          "thumbnail": "/products/thumbnails/predators/F6-2.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/predators/F6-3.JPG",
+          "thumbnail": "/products/thumbnails/predators/F6-3.webp",
+          "key": 3
+        },
+        {
+          "src": "/products/predators/F6-4.JPG",
+          "thumbnail": "/products/thumbnails/predators/F6-4.webp",
+          "key": 4
+        }
+      ],
+      "en-US": {
+        "title": "Red Fox Shoulder Mount + carved shield no. 6",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield length: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "en-GB": {
+        "title": "Red Fox Shoulder Mount + carved shield no. 6",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield length: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "de-DE": {
+        "title": "Fuchs Kopf Präparat + geschnitzter Schild nr. 6",
+        "descriptionTemplate": "Breite: {dimension1-cm} cm</br>Höhe: {dimension2-cm} cm</br>Tiefe: {dimension3-cm} cm</br>Schildbreite: {dimension4-cm} cm</br>Schildlänge: {dimension5-cm} cm</br>"
+      },
+      "pl-PL": {
+        "title": "Medalion lisa na rzeźbionej desce nr 6",
+        "descriptionTemplate": "szerokość: {dimension1-cm} cm</br>wysokość: {dimension2-cm} cm</br>głębokość: {dimension3-cm} cm</br>szerokość deski: {dimension4-cm} cm</br>długość deski: {dimension5-cm} cm"
+      }
+    },
+    "F7": {
+      "price": 200,
+      "dimensions": [
+        18,
+        30,
+        24,
+        54,
+        42
+      ],
+      "images": [
+        {
+          "src": "/products/predators/F7-1.JPG",
+          "thumbnail": "/products/thumbnails/predators/F7-1.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/predators/F7-2.JPG",
+          "thumbnail": "/products/thumbnails/predators/F7-2.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/predators/F7-3.JPG",
+          "thumbnail": "/products/thumbnails/predators/F7-3.webp",
+          "key": 3
+        },
+        {
+          "src": "/products/predators/F7-4.JPG",
+          "thumbnail": "/products/thumbnails/predators/F7-4.webp",
+          "key": 4
+        }
+      ],
+      "en-US": {
+        "title": "Red Fox Shoulder Mount + carved shield no. 7",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield length: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "en-GB": {
+        "title": "Red Fox Shoulder Mount + carved shield no. 7",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield length: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "de-DE": {
+        "title": "Fuchs Kopf Präparat + geschnitzter Schild nr. 7",
+        "descriptionTemplate": "Breite: {dimension1-cm} cm</br>Höhe: {dimension2-cm} cm</br>Tiefe: {dimension3-cm} cm</br>Schildbreite: {dimension4-cm} cm</br>Schildlänge: {dimension5-cm} cm</br>"
+      },
+      "pl-PL": {
+        "title": "Medalion lisa na rzeźbionej desce nr 7",
+        "descriptionTemplate": "szerokość: {dimension1-cm} cm</br>wysokość: {dimension2-cm} cm</br>głębokość: {dimension3-cm} cm</br>szerokość deski: {dimension4-cm} cm</br>długość deski: {dimension5-cm} cm"
+      }
+    },
+    "F8": {
+      "price": 195,
+      "dimensions": [
+        18,
+        30,
+        24,
+        45,
+        45
+      ],
+      "images": [
+        {
+          "src": "/products/predators/F8-1.JPG",
+          "thumbnail": "/products/thumbnails/predators/F8-1.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/predators/F8-2.JPG",
+          "thumbnail": "/products/thumbnails/predators/F8-2.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/predators/F8-3.JPG",
+          "thumbnail": "/products/thumbnails/predators/F8-3.webp",
+          "key": 3
+        },
+        {
+          "src": "/products/predators/F8-4.JPG",
+          "thumbnail": "/products/thumbnails/predators/F8-4.webp",
+          "key": 4
+        }
+      ],
+      "en-US": {
+        "title": "Red Fox Shoulder Mount + carved shield no. 8",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield length: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "en-GB": {
+        "title": "Red Fox Shoulder Mount + carved shield no. 8",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield length: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "de-DE": {
+        "title": "Fuchs Kopf Präparat + geschnitzter Schild nr. 8",
+        "descriptionTemplate": "Breite: {dimension1-cm} cm</br>Höhe: {dimension2-cm} cm</br>Tiefe: {dimension3-cm} cm</br>Schildbreite: {dimension4-cm} cm</br>Schildlänge: {dimension5-cm} cm</br>"
+      },
+      "pl-PL": {
+        "title": "Medalion lisa na rzeźbionej desce nr 8",
+        "descriptionTemplate": "szerokość: {dimension1-cm} cm</br>wysokość: {dimension2-cm} cm</br>głębokość: {dimension3-cm} cm</br>szerokość deski: {dimension4-cm} cm</br>długość deski: {dimension5-cm} cm"
+      }
+    },
+    "B": {
+      "price": 140,
+      "dimensions": [
+        25,
+        22,
+        23
+      ],
+      "images": [
+        {
+          "src": "/products/predators/B-1.JPG",
+          "thumbnail": "/products/thumbnails/predators/B-1.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/predators/B-2.JPG",
+          "thumbnail": "/products/thumbnails/predators/B-2.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/predators/B-3.JPG",
+          "thumbnail": "/products/thumbnails/predators/B-3.webp",
+          "key": 3
+        }
+      ],
+      "en-US": {
+        "title": "Badger Shoulder Mount",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\""
+      },
+      "en-GB": {
+        "title": "Badger Shoulder Mount",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\""
+      },
+      "de-DE": {
+        "title": "Dachs Kopf Präparat",
+        "descriptionTemplate": "Breite: {dimension1-cm} cm</br>Höhe: {dimension2-cm} cm</br>Tiefe: {dimension3-cm} cm</br>"
+      },
+      "pl-PL": {
+        "title": "Medalion borsuka",
+        "descriptionTemplate": "szerokość: {dimension1-cm} cm</br>wysokość: {dimension2-cm} cm</br>głębokość: {dimension3-cm} cm"
+      }
+    },
+    "Bp": {
+      "price": 190,
+      "dimensions": [
+        25,
+        35,
+        30
+      ],
+      "images": [
+        {
+          "src": "/products/predators/Bp-3.JPG",
+          "thumbnail": "/products/thumbnails/predators/Bp-3.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/predators/Bp-1.JPG",
+          "thumbnail": "/products/thumbnails/predators/Bp-1.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/predators/Bp-2.JPG",
+          "thumbnail": "/products/thumbnails/predators/Bp-2.webp",
+          "key": 3
+        },
+        {
+          "src": "/products/predators/Bp-4.JPG",
+          "thumbnail": "/products/thumbnails/predators/Bp-4.webp",
+          "key": 4
+        }
+      ],
+      "en-US": {
+        "title": "Badger Shoulder Mount with paws",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\""
+      },
+      "en-GB": {
+        "title": "Badger Shoulder Mount with paws",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\""
+      },
+      "de-DE": {
+        "title": "Dachs Kopf Präparat mit Pfoten",
+        "descriptionTemplate": "Breite: {dimension1-cm} cm</br>Höhe: {dimension2-cm} cm</br>Tiefe: {dimension3-cm} cm</br>"
+      },
+      "pl-PL": {
+        "title": "Medalion borsuka z łapami",
+        "descriptionTemplate": "szerokość: {dimension1-cm} cm</br>wysokość: {dimension2-cm} cm</br>głębokość: {dimension3-cm} cm"
+      }
+    },
+    "B1": {
+      "price": 170,
+      "dimensions": [
+        25,
+        22,
+        23,
+        29,
+        29
+      ],
+      "images": [
+        {
+          "src": "/products/predators/B1-1.JPG",
+          "thumbnail": "/products/thumbnails/predators/B1-1.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/predators/B1-2.JPG",
+          "thumbnail": "/products/thumbnails/predators/B1-2.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/predators/B1-3.JPG",
+          "thumbnail": "/products/thumbnails/predators/B1-3.webp",
+          "key": 3
+        }
+      ],
+      "en-US": {
+        "title": "Badger Shoulder Mount + Round Shield",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield diameter: {dimension4-cm} cm, {dimension4-inch}\"</br>shield depth: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "en-GB": {
+        "title": "Badger Shoulder Mount + Round Shield",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield diameter: {dimension4-cm} cm, {dimension4-inch}\"</br>shield depth: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "de-DE": {
+        "title": "Dachs Kopf Präparat + rundes Schild",
+        "descriptionTemplate": "Breite: {dimension1-cm} cm</br>Höhe: {dimension2-cm} cm</br>Tiefe: {dimension3-cm} cm</br>Durchmesser des Schildes: {dimension4-cm} cm</br>Schildtiefe: {dimension5-cm} cm</br>"
+      },
+      "pl-PL": {
+        "title": "Medalion borsuka na okrągłej desce",
+        "descriptionTemplate": "szerokość: {dimension1-cm} cm</br>wysokość: {dimension2-cm} cm</br>głębokość: {dimension3-cm} cm</br>średnica deski: {dimension4-cm} cm</br>grubość deski: {dimension5-cm} cm"
+      }
+    },
+    "B2": {
+      "price": 170,
+      "dimensions": [
+        25,
+        22,
+        23,
+        33,
+        25
+      ],
+      "images": [
+        {
+          "src": "/products/predators/B2-2.JPG",
+          "thumbnail": "/products/thumbnails/predators/B2-2.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/predators/B2-1.JPG",
+          "thumbnail": "/products/thumbnails/predators/B2-1.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/predators/B2-3.JPG",
+          "thumbnail": "/products/thumbnails/predators/B2-3.webp",
+          "key": 3
+        }
+      ],
+      "en-US": {
+        "title": "Badger Shoulder Mount + Oval Shield",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield height: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "en-GB": {
+        "title": "Badger Shoulder Mount + Oval Shield",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield height: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "de-DE": {
+        "title": "Dachs Kopf Präparat + ovaler Schild",
+        "descriptionTemplate": "Breite: {dimension1-cm} cm</br>Höhe: {dimension2-cm} cm</br>Tiefe: {dimension3-cm} cm</br>Schildbreite: {dimension4-cm} cm</br>Schildhöhe: {dimension5-cm} cm</br>"
+      },
+      "pl-PL": {
+        "title": "Medalion borsuka na owalnej desce",
+        "descriptionTemplate": "szerokość: {dimension1-cm} cm</br>wysokość: {dimension2-cm} cm</br>głębokość: {dimension3-cm} cm</br>szerokość deski: {dimension4-cm} cm</br>wysokość deski: {dimension5-cm} cm"
+      }
+    },
+    "B5": {
+      "price": 210,
+      "dimensions": [
+        25,
+        22,
+        23,
+        32,
+        42
+      ],
+      "images": [
+        {
+          "src": "/products/predators/B5-2.JPG",
+          "thumbnail": "/products/thumbnails/predators/B5-2.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/predators/B5-1.JPG",
+          "thumbnail": "/products/thumbnails/predators/B5-1.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/predators/B5-3.JPG",
+          "thumbnail": "/products/thumbnails/predators/B5-3.webp",
+          "key": 3
+        }
+      ],
+      "en-US": {
+        "title": "Badger Shoulder Mount + Carved Shield No. 5",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield height: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "en-GB": {
+        "title": "Badger Shoulder Mount + Carved Shield No. 5",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield height: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "de-DE": {
+        "title": "Dachs Kopf Präparat + geschnitzter Schild nr 5",
+        "descriptionTemplate": "Breite: {dimension1-cm} cm</br>Höhe: {dimension2-cm} cm</br>Tiefe: {dimension3-cm} cm</br>Schildbreite: {dimension4-cm} cm</br>Schildhöhe: {dimension5-cm} cm</br>"
+      },
+      "pl-PL": {
+        "title": "Medalion borsuka na rzeźbionej desce nr 5",
+        "descriptionTemplate": "szerokość: {dimension1-cm} cm</br>wysokość: {dimension2-cm} cm</br>głębokość: {dimension3-cm} cm</br>szerokość deski: {dimension4-cm} cm</br>wysokość deski: {dimension5-cm} cm"
+      }
+    },
+    "B6": {
+      "price": 220,
+      "dimensions": [
+        25,
+        22,
+        23,
+        38,
+        30
+      ],
+      "images": [
+        {
+          "src": "/products/predators/B6-1.JPG",
+          "thumbnail": "/products/thumbnails/predators/B6-1.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/predators/B6-2.JPG",
+          "thumbnail": "/products/thumbnails/predators/B6-2.webp",
+          "key": 2
+        }
+      ],
+      "en-US": {
+        "title": "Badger Shoulder Mount + Carved Shield No. 6",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield height: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "en-GB": {
+        "title": "Badger Shoulder Mount + Carved Shield No. 6",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield height: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "de-DE": {
+        "title": "Dachs Kopf Präparat + geschnitzter Schild nr 6",
+        "descriptionTemplate": "Breite: {dimension1-cm} cm</br>Höhe: {dimension2-cm} cm</br>Tiefe: {dimension3-cm} cm</br>Schildbreite: {dimension4-cm} cm</br>Schildhöhe: {dimension5-cm} cm</br>"
+      },
+      "pl-PL": {
+        "title": "Medalion borsuka na rzeźbionej desce nr 6",
+        "descriptionTemplate": "szerokość: {dimension1-cm} cm</br>wysokość: {dimension2-cm} cm</br>głębokość: {dimension3-cm} cm</br>szerokość deski: {dimension4-cm} cm</br>wysokość deski: {dimension5-cm} cm"
+      }
+    },
+    "B7": {
+      "price": 230,
+      "dimensions": [
+        25,
+        22,
+        23,
+        38,
+        28
+      ],
+      "images": [
+        {
+          "src": "/products/predators/B7-3.JPG",
+          "thumbnail": "/products/thumbnails/predators/B7-3.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/predators/B7-1.JPG",
+          "thumbnail": "/products/thumbnails/predators/B7-1.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/predators/B7-2.JPG",
+          "thumbnail": "/products/thumbnails/predators/B7-2.webp",
+          "key": 3
+        },
+        {
+          "src": "/products/predators/B7-4.JPG",
+          "thumbnail": "/products/thumbnails/predators/B7-4.webp",
+          "key": 4
+        }
+      ],
+      "en-US": {
+        "title": "Badger Shoulder Mount + Carved Shield No. 7",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield height: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "en-GB": {
+        "title": "Badger Shoulder Mount + Carved Shield No. 7",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield height: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "de-DE": {
+        "title": "Dachs Kopf Präparat + geschnitzter Schild nr 7",
+        "descriptionTemplate": "Breite: {dimension1-cm} cm</br>Höhe: {dimension2-cm} cm</br>Tiefe: {dimension3-cm} cm</br>Schildbreite: {dimension4-cm} cm</br>Schildhöhe: {dimension5-cm} cm</br>"
+      },
+      "pl-PL": {
+        "title": "Medalion borsuka na rzeźbionej desce nr 7",
+        "descriptionTemplate": "szerokość: {dimension1-cm} cm</br>wysokość: {dimension2-cm} cm</br>głębokość: {dimension3-cm} cm</br>szerokość deski: {dimension4-cm} cm</br>wysokość deski: {dimension5-cm} cm"
+      }
+    },
+    "B8": {
+      "price": 220,
+      "dimensions": [
+        25,
+        22,
+        23,
+        32,
+        27
+      ],
+      "images": [
+        {
+          "src": "/products/predators/B8-2.JPG",
+          "thumbnail": "/products/thumbnails/predators/B8-2.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/predators/B8-1.JPG",
+          "thumbnail": "/products/thumbnails/predators/B8-1.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/predators/B8-3.JPG",
+          "thumbnail": "/products/thumbnails/predators/B8-3.webp",
+          "key": 3
+        }
+      ],
+      "en-US": {
+        "title": "Badger Shoulder Mount + Carved Shield No. 8",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield height: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "en-GB": {
+        "title": "Badger Shoulder Mount + Carved Shield No. 8",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield height: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "de-DE": {
+        "title": "Dachs Kopf Präparat + geschnitzter Schild nr 8",
+        "descriptionTemplate": "Breite: {dimension1-cm} cm</br>Höhe: {dimension2-cm} cm</br>Tiefe: {dimension3-cm} cm</br>Schildbreite: {dimension4-cm} cm</br>Schildhöhe: {dimension5-cm} cm</br>"
+      },
+      "pl-PL": {
+        "title": "Medalion borsuka na rzeźbionej desce nr 8",
+        "descriptionTemplate": "szerokość: {dimension1-cm} cm</br>wysokość: {dimension2-cm} cm</br>głębokość: {dimension3-cm} cm</br>szerokość deski: {dimension4-cm} cm</br>wysokość deski: {dimension5-cm} cm"
+      }
+    },
+    "Ra": {
+      "price": 140,
+      "dimensions": [
+        24,
+        20,
+        24
+      ],
+      "images": [
+        {
+          "src": "/products/predators/Ra-2.JPG",
+          "thumbnail": "/products/thumbnails/predators/Ra-2.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/predators/Ra-1.JPG",
+          "thumbnail": "/products/thumbnails/predators/Ra-1.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/predators/Ra-3.JPG",
+          "thumbnail": "/products/thumbnails/predators/Ra-3.webp",
+          "key": 3
+        }
+      ],
+      "en-US": {
+        "title": "Raccoon Dog Shoulder Mount",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\""
+      },
+      "en-GB": {
+        "title": "Raccoon Dog Shoulder Mount",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\""
+      },
+      "de-DE": {
+        "title": "Marderhund Kopf Präparat",
+        "descriptionTemplate": "Breite: {dimension1-cm} cm</br>Höhe: {dimension2-cm} cm</br>Tiefe: {dimension3-cm} cm</br>"
+      },
+      "pl-PL": {
+        "title": "Medalion jenota",
+        "descriptionTemplate": "szerokość: {dimension1-cm} cm</br>wysokość: {dimension2-cm} cm</br>głębokość: {dimension3-cm} cm"
+      }
+    },
+    "Rat": {
+      "price": 150,
+      "dimensions": [
+        24,
+        20,
+        24
+      ],
+      "images": [
+        {
+          "src": "/products/predators/Rat-1.JPG",
+          "thumbnail": "/products/thumbnails/predators/Rat-1.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/predators/Rat-2.JPG",
+          "thumbnail": "/products/thumbnails/predators/Rat-2.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/predators/Rat-3.JPG",
+          "thumbnail": "/products/thumbnails/predators/Rat-3.webp",
+          "key": 3
+        }
+      ],
+      "en-US": {
+        "title": "Raccoon Dog Shoulder Mount + Tail",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\""
+      },
+      "en-GB": {
+        "title": "Raccoon Dog Shoulder Mount + Tail",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\""
+      },
+      "de-DE": {
+        "title": "Marderhund Kopf Präparat + Schwanz",
+        "descriptionTemplate": "Breite: {dimension1-cm} cm</br>Höhe: {dimension2-cm} cm</br>Tiefe: {dimension3-cm} cm</br>"
+      },
+      "pl-PL": {
+        "title": "Medalion jenota z ogonem",
+        "descriptionTemplate": "szerokość: {dimension1-cm} cm</br>wysokość: {dimension2-cm} cm</br>głębokość: {dimension3-cm} cm"
+      }
+    },
+    "Ra2": {
+      "price": 180,
+      "dimensions": [
+        24,
+        20,
+        24,
+        45,
+        35
+      ],
+      "images": [
+        {
+          "src": "/products/predators/Ra2-2.JPG",
+          "thumbnail": "/products/thumbnails/predators/Ra2-2.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/predators/Ra2-1.JPG",
+          "thumbnail": "/products/thumbnails/predators/Ra2-1.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/predators/Ra2-3.JPG",
+          "thumbnail": "/products/thumbnails/predators/Ra2-3.webp",
+          "key": 3
+        }
+      ],
+      "en-US": {
+        "title": "Raccoon Dog Shoulder Mount + Big Oval Shield",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield height: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "en-GB": {
+        "title": "Raccoon Dog Shoulder Mount + Big Oval Shield",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield height: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "de-DE": {
+        "title": "Marderhund Kopf Präparat + großes ovales Schild",
+        "descriptionTemplate": "Breite: {dimension1-cm} cm</br>Höhe: {dimension2-cm} cm</br>Tiefe: {dimension3-cm} cm</br>Breite des Schildes: {dimension4-cm} cm</br>Höhe des Schildes: {dimension5-cm} cm</br>"
+      },
+      "pl-PL": {
+        "title": "Medalion jenota na dużej owalnej desce",
+        "descriptionTemplate": "szerokość: {dimension1-cm} cm</br>wysokość: {dimension2-cm} cm</br>głębokość: {dimension3-cm} cm</br>szerokość deski: {dimension4-cm} cm</br>wysokość deski: {dimension5-cm} cm"
+      }
+    },
+    "Ra5": {
+      "price": 205,
+      "dimensions": [
+        24,
+        20,
+        24,
+        50,
+        35
+      ],
+      "images": [
+        {
+          "src": "/products/predators/Ra5-2.JPG",
+          "thumbnail": "/products/thumbnails/predators/Ra5-2.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/predators/Ra5-1.JPG",
+          "thumbnail": "/products/thumbnails/predators/Ra5-1.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/predators/Ra5-3.JPG",
+          "thumbnail": "/products/thumbnails/predators/Ra5-3.webp",
+          "key": 3
+        },
+        {
+          "src": "/products/predators/Ra5-4.JPG",
+          "thumbnail": "/products/thumbnails/predators/Ra5-4.webp",
+          "key": 4
+        }
+      ],
+      "en-US": {
+        "title": "Raccoon Dog Shoulder Mount + Carved Shield No. 5",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield height: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "en-GB": {
+        "title": "Raccoon Dog Shoulder Mount + Carved Shield No. 5",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield height: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "de-DE": {
+        "title": "Marderhund Kopf Präparat + geschnitzter Schild nr 5",
+        "descriptionTemplate": "Breite: {dimension1-cm} cm</br>Höhe: {dimension2-cm} cm</br>Tiefe: {dimension3-cm} cm</br>Breite des Schildes: {dimension4-cm} cm</br>Höhe des Schildes: {dimension5-cm} cm</br>"
+      },
+      "pl-PL": {
+        "title": "Medalion jenota na rzeźbionej desce nr 5",
+        "descriptionTemplate": "szerokość: {dimension1-cm} cm</br>wysokość: {dimension2-cm} cm</br>głębokość: {dimension3-cm} cm</br>szerokość deski: {dimension4-cm} cm</br>wysokość deski: {dimension5-cm} cm"
+      }
+    },
+    "Ra6": {
+      "price": 220,
+      "dimensions": [
+        24,
+        20,
+        24,
+        50,
+        35
+      ],
+      "images": [
+        {
+          "src": "/products/predators/Ra6-2.JPG",
+          "thumbnail": "/products/thumbnails/predators/Ra6-2.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/predators/Ra6-1.JPG",
+          "thumbnail": "/products/thumbnails/predators/Ra6-1.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/predators/Ra6-3.JPG",
+          "thumbnail": "/products/thumbnails/predators/Ra6-3.webp",
+          "key": 3
+        },
+        {
+          "src": "/products/predators/Ra6-4.JPG",
+          "thumbnail": "/products/thumbnails/predators/Ra6-4.webp",
+          "key": 4
+        }
+      ],
+      "en-US": {
+        "title": "Raccoon Dog Shoulder Mount + Carved Shield No. 6",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield height: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "en-GB": {
+        "title": "Raccoon Dog Shoulder Mount + Carved Shield No. 6",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield height: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "de-DE": {
+        "title": "Marderhund Kopf Präparat + geschnitzter Schild nr 6",
+        "descriptionTemplate": "Breite: {dimension1-cm} cm</br>Höhe: {dimension2-cm} cm</br>Tiefe: {dimension3-cm} cm</br>Breite des Schildes: {dimension4-cm} cm</br>Höhe des Schildes: {dimension5-cm} cm</br>"
+      },
+      "pl-PL": {
+        "title": "Medalion jenota na rzeźbionej desce nr 6",
+        "descriptionTemplate": "szerokość: {dimension1-cm} cm</br>wysokość: {dimension2-cm} cm</br>głębokość: {dimension3-cm} cm</br>szerokość deski: {dimension4-cm} cm</br>wysokość deski: {dimension5-cm} cm"
+      }
+    },
+    "Ra7": {
+      "price": 220,
+      "dimensions": [
+        24,
+        20,
+        24,
+        50,
+        35
+      ],
+      "images": [
+        {
+          "src": "/products/predators/Ra7-2.JPG",
+          "thumbnail": "/products/thumbnails/predators/Ra7-2.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/predators/Ra7-1.JPG",
+          "thumbnail": "/products/thumbnails/predators/Ra7-1.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/predators/Ra7-3.JPG",
+          "thumbnail": "/products/thumbnails/predators/Ra7-3.webp",
+          "key": 3
+        },
+        {
+          "src": "/products/predators/Ra7-4.JPG",
+          "thumbnail": "/products/thumbnails/predators/Ra7-4.webp",
+          "key": 4
+        }
+      ],
+      "en-US": {
+        "title": "Raccoon Dog Shoulder Mount + Carved Shield No. 7",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield height: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "en-GB": {
+        "title": "Raccoon Dog Shoulder Mount + Carved Shield No. 7",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield height: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "de-DE": {
+        "title": "Marderhund Kopf Präparat + geschnitzter Schild nr 7",
+        "descriptionTemplate": "Breite: {dimension1-cm} cm</br>Höhe: {dimension2-cm} cm</br>Tiefe: {dimension3-cm} cm</br>Breite des Schildes: {dimension4-cm} cm</br>Höhe des Schildes: {dimension5-cm} cm</br>"
+      },
+      "pl-PL": {
+        "title": "Medalion jenota na rzeźbionej desce nr 7",
+        "descriptionTemplate": "szerokość: {dimension1-cm} cm</br>wysokość: {dimension2-cm} cm</br>głębokość: {dimension3-cm} cm</br>szerokość deski: {dimension4-cm} cm</br>wysokość deski: {dimension5-cm} cm"
+      }
+    },
+    "Ra8": {
+      "price": 215,
+      "dimensions": [
+        24,
+        20,
+        24,
+        49,
+        35
+      ],
+      "images": [
+        {
+          "src": "/products/predators/Ra8-2.JPG",
+          "thumbnail": "/products/thumbnails/predators/Ra8-2.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/predators/Ra8-1.JPG",
+          "thumbnail": "/products/thumbnails/predators/Ra8-1.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/predators/Ra8-3.JPG",
+          "thumbnail": "/products/thumbnails/predators/Ra8-3.webp",
+          "key": 3
+        },
+        {
+          "src": "/products/predators/Ra8-4.JPG",
+          "thumbnail": "/products/thumbnails/predators/Ra8-4.webp",
+          "key": 4
+        }
+      ],
+      "en-US": {
+        "title": "Raccoon Dog Shoulder Mount + Carved Shield No. 8",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield height: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "en-GB": {
+        "title": "Raccoon Dog Shoulder Mount + Carved Shield No. 8",
+        "descriptionTemplate": "width: {dimension1-cm} cm, {dimension1-inch}\"</br>height: {dimension2-cm} cm, {dimension2-inch}\"</br>depth: {dimension3-cm} cm, {dimension3-inch}\"</br>shield width: {dimension4-cm} cm, {dimension4-inch}\"</br>shield height: {dimension5-cm} cm, {dimension5-inch}\""
+      },
+      "de-DE": {
+        "title": "Marderhund Kopf Präparat + geschnitzter Schild nr 8",
+        "descriptionTemplate": "Breite: {dimension1-cm} cm</br>Höhe: {dimension2-cm} cm</br>Tiefe: {dimension3-cm} cm</br>Breite des Schildes: {dimension4-cm} cm</br>Höhe des Schildes: {dimension5-cm} cm</br>"
+      },
+      "pl-PL": {
+        "title": "Medalion jenota na rzeźbionej desce nr 8",
+        "descriptionTemplate": "szerokość: {dimension1-cm} cm</br>wysokość: {dimension2-cm} cm</br>głębokość: {dimension3-cm} cm</br>szerokość deski: {dimension4-cm} cm</br>wysokość deski: {dimension5-cm} cm"
+      }
+    }
+  },
+  "redDeer": {},
+  "skins": {},
+  "others": {}
+}

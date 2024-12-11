@@ -1,0 +1,44 @@
+@media (max-width: 992px) {
+    .category-col {
+      margin-top: 25px !important;
+    }
+}
+
+.category-col {
+    position: relative;
+}
+
+.category-img {
+    position: relative;
+    display: inline-block;
+
+    box-shadow: 0px 0px 12px 1px rgba(0, 0, 0, 1);
+}
+
+.category-overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: 0.5s ease;
+    background-color: black;
+}
+
+.category-img:hover .category-overlay {
+    opacity: 0.85;
+}
+
+.category-title {
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    white-space: nowrap;
+}
