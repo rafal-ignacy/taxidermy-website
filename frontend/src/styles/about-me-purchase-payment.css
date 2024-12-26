@@ -1,0 +1,8 @@
+.section-content {
+    text-align: justify;
+}
+
+.button-section {
+    display: flex;
+    justify-content: center;
+}
