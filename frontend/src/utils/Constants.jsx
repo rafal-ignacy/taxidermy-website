@@ -13,4 +13,4 @@ export const availableLanguages = {
 };
 
 export const handledRequestStatuses = [200, 400, 404, 408, 413, 429, 500];
-export const contactFormURL = 'https://taxidermypoland.com:3000/api/contact-form';
+export const contactFormURL = 'https://taxidermypoland.com/api/contact-form';
