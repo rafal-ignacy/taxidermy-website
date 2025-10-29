@@ -12,8 +12,8 @@ dotenv.config();
 const app = express();
 const port = process.env.HTTP_PORT!;
 
-const certPath = "/etc/ssl/fullchain.pem";
-const keyPath = "/etc/ssl/privkey.pem";
+const certPath = process.env.SSL_CERT_PATH!;
+const keyPath = process.env.SSL_KEY_PATH!;
 
 interface SmtpConfig extends TransportOptions {
   host: string;
@@ -31,10 +31,7 @@ const corsOptions = {
   allowedHeaders: ["Content-Type", "Content-Length"],
 };
 
-const options = {
-  key: fs.readFileSync(keyPath),
-  cert: fs.readFileSync(certPath),
-};
+const useHttps = process.env.USE_HTTPS !== "false";
 
 const logger = winston.createLogger({
   level: "info",
@@ -139,6 +136,16 @@ app.post("/contact-form", async (req: Request, res: Response) => {
   }
 });
 
-https.createServer(options, app).listen(port, () => {
-  logger.info(`Server is running on port ${port}`);
-});
+if (useHttps) {
+  const options = {
+    key: fs.readFileSync(keyPath),
+    cert: fs.readFileSync(certPath),
+  };
+  https.createServer(options, app).listen(port, () => {
+    logger.info(`HTTPS server is running on port ${port}`);
+  });
+} else {
+  app.listen(port, () => {
+    logger.info(`HTTP server is running on port ${port}`);
+  });
+}
