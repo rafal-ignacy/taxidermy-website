@@ -53,6 +53,21 @@ const limiter = rateLimit({
   max: 1,
   standardHeaders: true,
   legacyHeaders: false,
+  keyGenerator: (req: Request): string => {
+    const xRealIp = req.headers["x-real-ip"];
+    if (typeof xRealIp === "string" && xRealIp.length > 0) return xRealIp;
+    if (Array.isArray(xRealIp) && xRealIp.length > 0) return xRealIp[0];
+
+    const xForwardedFor = req.headers["x-forwarded-for"];
+    if (typeof xForwardedFor === "string" && xForwardedFor.length > 0) {
+      return xForwardedFor.split(",")[0].trim();
+    }
+    if (Array.isArray(xForwardedFor) && xForwardedFor.length > 0) {
+      return String(xForwardedFor[0]).split(",")[0].trim();
+    }
+
+    return req.ip || "unknown";
+  },
   handler: (req: Request, res: Response) => {
     logger.warn(`Rate limit exceeded: ${req.ip}`);
     res.status(429).send('Rate limit exceeded');
