@@ -16,22 +16,21 @@ services:
     container_name: taxidermy-goaccess
     depends_on:
       - frontend
-    entrypoint: ["/bin/sh", "-lc"]
     volumes:
       - ./logs/nginx:/var/log/nginx:ro
       - ./logs/goaccess:/usr/share/goaccess
       - ./goaccess.conf:/etc/goaccess/goaccess.conf:ro
     ports:
       - "7890:7890"
-    command: >
-      touch /var/log/nginx/access.log && \
-      mkdir -p /usr/share/goaccess && \
-      echo Using config at: /etc/goaccess/goaccess.conf && ls -l /etc/goaccess/goaccess.conf || true && \
-      echo ----- BEGIN goaccess.conf ----- && cat -n /etc/goaccess/goaccess.conf && echo ----- END goaccess.conf ----- && \
-      goaccess -p /etc/goaccess/goaccess.conf \
-        -f /var/log/nginx/access.log \
-        --real-time-html \
-        --daemonize \
-        --addr=0.0.0.0 \
-        --port=7890 \
-        -o /usr/share/goaccess/report.html"
+    command:
+      - --no-global-config
+      - -p
+      - /etc/goaccess/goaccess.conf
+      - -f
+      - /var/log/nginx/access.log
+      - --real-time-html
+      - --daemonize
+      - --addr=0.0.0.0
+      - --port=7890
+      - -o
+      - /usr/share/goaccess/report.html
