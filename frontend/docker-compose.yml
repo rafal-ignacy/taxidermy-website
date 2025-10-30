@@ -23,7 +23,7 @@ services:
     command: >
       /bin/sh -c "touch /var/log/nginx/access.log && \
       goaccess /var/log/nginx/access.log \
-        --log-format=COMBINED \
+        --log-format='%h %^[%d:%t %^] "%r" %s %b "%R" "%u"' \
         --date-format=%d/%b/%Y \
         --time-format=%T \
         --real-time-html \
