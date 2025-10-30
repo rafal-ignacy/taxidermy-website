@@ -19,14 +19,13 @@ services:
     volumes:
       - ./logs/nginx:/var/log/nginx:ro
       - ./logs/goaccess:/usr/share/goaccess
+      - ./goaccess.conf:/etc/goaccess/goaccess.conf:ro
     ports:
       - "7890:7890"
     command: >
       /bin/sh -c "touch /var/log/nginx/access.log && \
-      goaccess /var/log/nginx/access.log \
-        --log-format='%h %^[%d:%t %^] \"%r\" %s %b \"%R\" \"%u\" \"%^\"' \
-        --date-format=%d/%b/%Y \
-        --time-format=%T \
+      goaccess -p /etc/goaccess/goaccess.conf \
+        -f /var/log/nginx/access.log \
         --real-time-html \
         --daemonize \
         --addr=0.0.0.0 \
