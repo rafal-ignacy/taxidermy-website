@@ -14,7 +14,7 @@ services:
       --daemonize
     volumes:
       - ../frontend/logs/nginx:/logs:ro
-      - ./config:/config:ro
+      - ./goaccess.conf:/config/goaccess.conf:ro
       - ./reports:/reports
     ports:
       - "7890:7890" # WebSocket for real-time updates
