@@ -25,8 +25,10 @@ services:
     command: >
       /bin/sh -lc "touch /var/log/nginx/access.log && \
       mkdir -p /usr/share/goaccess && \
-      echo Using config at: /etc/goaccess.conf && ls -l /etc/goaccess.conf && \
-      goaccess --no-global-config -p /etc/goaccess.conf \
+      echo Using config at: /etc/goaccess.conf && ls -l /etc/goaccess.conf || true && \
+      sed -i 's/\r$//' /etc/goaccess.conf 2>/dev/null || true && \
+      echo ----- BEGIN goaccess.conf ----- && cat -n /etc/goaccess.conf && echo ----- END goaccess.conf ----- && \
+      goaccess --no-global-config --config-file=/etc/goaccess.conf \
         -f /var/log/nginx/access.log \
         --real-time-html \
         --daemonize \
