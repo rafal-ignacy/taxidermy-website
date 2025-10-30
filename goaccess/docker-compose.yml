@@ -15,6 +15,7 @@ services:
       - ../frontend/logs/nginx:/logs:ro
       - ./goaccess.conf:/etc/goaccess/goaccess.conf:ro
       - ./reports:/reports
+      - ./geoip:/geoip:ro
     ports:
       - "7891:7891" # GoAccess real-time server + WebSocket
     restart: unless-stopped
