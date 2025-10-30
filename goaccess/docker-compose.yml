@@ -5,7 +5,7 @@ services:
     image: allinurl/goaccess:latest
     container_name: goaccess
     command: >-
-      goaccess /logs/access.log
+      /logs/access.log
       --config-file=/etc/goaccess/goaccess.conf
       --output=/reports/index.html
       --real-time-html
