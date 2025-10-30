@@ -6,7 +6,7 @@ services:
     container_name: goaccess
     command: >-
       goaccess /logs/access.log
-      --config-file=/config/goaccess.conf
+      --config-file=/etc/goaccess/goaccess.conf
       --output=/reports/index.html
       --real-time-html
       --addr=0.0.0.0
@@ -14,7 +14,7 @@ services:
       --daemonize
     volumes:
       - ../frontend/logs/nginx:/logs:ro
-      - ./goaccess.conf:/config/goaccess.conf:ro
+      - ./goaccess.conf:/etc/goaccess/goaccess.conf:ro
       - ./reports:/reports
     ports:
       - "7890:7890" # WebSocket for real-time updates
