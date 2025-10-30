@@ -19,12 +19,14 @@ services:
     volumes:
       - ./logs/nginx:/var/log/nginx:ro
       - ./logs/goaccess:/usr/share/goaccess
-      - ./goaccess.conf:/etc/goaccess/goaccess.conf:ro
+      - ./goaccess.conf:/etc/goaccess.conf:ro
     ports:
       - "7890:7890"
     command: >
-      /bin/sh -c "touch /var/log/nginx/access.log && \
-      goaccess -p /etc/goaccess/goaccess.conf \
+      /bin/sh -lc "touch /var/log/nginx/access.log && \
+      mkdir -p /usr/share/goaccess && \
+      echo Using config at: /etc/goaccess.conf && ls -l /etc/goaccess.conf && \
+      goaccess --no-global-config -p /etc/goaccess.conf \
         -f /var/log/nginx/access.log \
         --real-time-html \
         --daemonize \
