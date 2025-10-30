@@ -7,28 +7,19 @@ services:
     command: >-
       /logs/access.log
       --config-file=/etc/goaccess/goaccess.conf
-      --output=/reports/index.html
+      --output=/reports/report.html
       --real-time-html
       --addr=0.0.0.0
-      --port=7890
+      --port=7891
     volumes:
       - ../frontend/logs/nginx:/logs:ro
       - ./goaccess.conf:/etc/goaccess/goaccess.conf:ro
       - ./reports:/reports
     ports:
-      - "7890:7890" # WebSocket for real-time updates
+      - "7891:7891" # GoAccess real-time server + WebSocket
     restart: unless-stopped
 
-  report-server:
-    image: nginx:alpine
-    container_name: goaccess-report-server
-    depends_on:
-      - goaccess
-    volumes:
-      - ./reports:/usr/share/nginx/html:ro
-    ports:
-      - "8081:80" # Serve the generated report at http://localhost:8081
-    restart: unless-stopped
+  
 
 volumes: {}
 

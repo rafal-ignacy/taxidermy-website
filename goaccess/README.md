@@ -5,8 +5,8 @@ This folder contains a standalone GoAccess setup to analyze your backend logs.
 ## What it does
 - Parses `../frontend/logs/nginx/access.log`
 - Generates a real-time HTML report to `./reports/index.html`
-- Serves the report at `http://localhost:8081`
-- Exposes WebSocket updates on `ws://localhost:7890`
+- Serves the report directly from GoAccess at `http://localhost:7891/report.html`
+- WebSocket updates at `ws://localhost:7891`
 
 ## Log format
 Configured to your custom format:
@@ -27,7 +27,7 @@ From this folder:
 
 ```bash
 docker compose up -d
-# Open http://localhost:8081
+# Open http://localhost:7891/report.html
 # Stop with: docker compose down
 ```
 
