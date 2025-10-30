@@ -32,7 +32,18 @@ services:
       - --real-time-html
       - --addr=0.0.0.0
       - --port=7890
-      - --ws-url=/goaccess
+      - --ws-url=ws://192.168.100.100:7890/goaccess
       - --origin=.*
       - -o
       - /usr/share/goaccess/report.html
+
+  goaccess-report:
+    image: nginx:alpine
+    container_name: taxidermy-goaccess-report
+    depends_on:
+      - goaccess
+    volumes:
+      - ./logs/goaccess:/usr/share/nginx/html:ro
+    ports:
+      - "7891:80"
+    restart: on-failure
