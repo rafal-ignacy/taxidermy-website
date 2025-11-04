@@ -96,11 +96,6 @@ function ItemCard(props) {
             />
           </Carousel>
           <CardBody>
-            <CardTitle tag="h6">
-              <span className="text-danger">
-                {props.idTitle + ': ' + props.id}
-              </span>
-            </CardTitle>
             <CardTitle
               tag="h5"
               dangerouslySetInnerHTML={{
