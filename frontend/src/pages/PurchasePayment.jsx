@@ -24,17 +24,8 @@ function PurchasePayment() {
         <h3 className='mb-4 text-center fw-bold'>
           {translation(language, 'transl.purchase.payment.title')}
         </h3>
-        <h5>
-          {translation(language, 'transl.purchase.payment.purchase.title')}
-        </h5>
         <span className='mb-4 section-content'>
-          {translation(language, 'transl.purchase.payment.purchase.content')}
-        </span>
-        <h5>
-          {translation(language, 'transl.purchase.payment.payment.title')}
-        </h5>
-        <span className='mb-4 section-content'>
-          {translation(language, 'transl.purchase.payment.payment.content')}
+          {translation(language, 'transl.purchase.payment.content')}
         </span>
         <div className='button-section'>
           <Button
