@@ -116,16 +116,20 @@ function ItemCard(props) {
             interval={false}
           >
             {slides}
-            <CarouselControl
-              direction="prev"
-              directionText="Previous"
-              onClickHandler={prev}
-            />
-            <CarouselControl
-              direction="next"
-              directionText="Next"
-              onClickHandler={next}
-            />
+            {props.images.length > 1 && (
+              <>
+                <CarouselControl
+                  direction="prev"
+                  directionText="Previous"
+                  onClickHandler={prev}
+                />
+                <CarouselControl
+                  direction="next"
+                  directionText="Next"
+                  onClickHandler={next}
+                />
+              </>
+            )}
           </Carousel>
           <CardBody>
             <CardTitle
