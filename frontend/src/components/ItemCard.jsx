@@ -48,12 +48,37 @@ function ItemCard(props) {
     );
   });
 
+  function formatDimensionValue(value) {
+    if (Array.isArray(value) && value.length === 2) {
+      // Range: [min, max]
+      return `${value[0]} - ${value[1]}`;
+    }
+    return value;
+  }
+
+  function formatInchValue(value) {
+    if (Array.isArray(value) && value.length === 2) {
+      // Range: convert both values to inches
+      const minInch = (value[0] / 2.54).toFixed(1);
+      const maxInch = (value[1] / 2.54).toFixed(1);
+      const formattedMin = minInch.endsWith('.0') ? minInch.slice(0, -2) : minInch;
+      const formattedMax = maxInch.endsWith('.0') ? maxInch.slice(0, -2) : maxInch;
+      return `${formattedMin} - ${formattedMax}`;
+    }
+    let inchValue = (value / 2.54).toFixed(1);
+    return inchValue.endsWith('.0') ? inchValue.slice(0, -2) : inchValue;
+  }
+
   function generateDescription(descriptionTemplate, dimensions) {
     let description = descriptionTemplate;
 
     // Replace cm values: {width-cm}, {height-cm}, {depth-cm}, {shieldWidth-cm}, {shieldHeight-cm}
     description = description.replace(/{(\w+)-cm}/g, (match, key) => {
-      return dimensions[key] !== undefined ? dimensions[key] : match;
+      const value = dimensions[key];
+      if (value === undefined || value === null) {
+        return match;
+      }
+      return formatDimensionValue(value);
     });
 
     // Replace inch values: {width-inch}, {height-inch}, {depth-inch}, {shieldWidth-inch}, {shieldHeight-inch}
@@ -62,8 +87,7 @@ function ItemCard(props) {
       if (value === null || value === undefined) {
         return match;
       }
-      let inchValue = (value / 2.54).toFixed(1);
-      return inchValue.endsWith('.0') ? inchValue.slice(0, -2) : inchValue;
+      return formatInchValue(value);
     });
 
     return description;
@@ -110,20 +134,32 @@ function ItemCard(props) {
                 __html: props.title,
               }}
             />
-            <CardText
-              dangerouslySetInnerHTML={{
-                __html: generateDescription(
-                  props.descriptionTemplate,
-                  props.dimensions
-                ),
-              }}
-            />
+            {props.dimensions && (
+              <CardText
+                dangerouslySetInnerHTML={{
+                  __html: generateDescription(
+                    props.descriptionTemplate,
+                    props.dimensions
+                  ),
+                }}
+              />
+            )}
             <CardTitle className="price-title" tag="h5">
-              {props.priceTitle +
-                ': ' +
-                (!props.currencyExchangeRate ? Math.round(props.price * props.exchangeRate) : ' ') +
-                ' ' +
-                props.currency}
+              {(() => {
+                let priceDisplay = '';
+                const exchangeRate = props.currencyExchangeRate || props.exchangeRate || 1;
+                
+                if (Array.isArray(props.price) && props.price.length === 2) {
+                  // Price range
+                  const minPrice = Math.round(props.price[0] * exchangeRate);
+                  const maxPrice = Math.round(props.price[1] * exchangeRate);
+                  priceDisplay = `${minPrice} - ${maxPrice}`;
+                } else {
+                  // Single price
+                  priceDisplay = Math.round(props.price * exchangeRate);
+                }
+                return props.priceTitle + ': ' + priceDisplay + ' ' + props.currency;
+              })()}
             </CardTitle>
           </CardBody>
         </Card>
