@@ -2516,10 +2516,11 @@
   "others": {
     "A1": {
       "price": 80,
-      "dimensions": [
-        20,
-        32
-      ],
+      "dimensions": 
+      {
+        "shieldWidth": 20,
+        "shieldHeight": 32
+      },
       "images": [
         {
           "src": "/products/gallery/others/A1-1.JPG",
@@ -2539,27 +2540,27 @@
       ],
       "en-GB": {
         "title": "Roe Deer Antlers + carved shield",
-        "descriptionTemplate": "shield width: {width-cm} cm, {width-inch}\"</br>shield height: {height-cm} cm, {height-inch}\""
+        "descriptionTemplate": "shield width: {shieldWidth-cm} cm, {shieldWidth-inch}\"</br>shield height: {shieldHeight-cm} cm, {shieldHeight-inch}\""
       },
       "en-US": {
-        "title": "Roe Deer Antlers+ carved shield ",
-        "descriptionTemplate": "shield width: {width-cm} cm, {width-inch}\"</br>shield height: {height-cm} cm, {height-inch}\""
+        "title": "Roe Deer Antlers + carved shield ",
+        "descriptionTemplate": "shield width: {shieldWidth-cm} cm, {shieldWidth-inch}\"</br>shield height: {shieldHeight-cm} cm, {shieldHeight-inch}\""
       },
       "de-DE": {
         "title": "Rehgeweihe + geschnitzter Schild",
-        "descriptionTemplate": "Schildbreite: {width-cm} cm</br>Shildhöhe: {height-cm} cm"
+        "descriptionTemplate": "Schildbreite: {shieldWidth-cm} cm</br>Shildhöhe: {shieldHeight-cm} cm"
       },
       "pl-PL": {
         "title": "Poroże sarny na rzeżbionej desce",
-        "descriptionTemplate": "szerokość deski: {width-cm} cm</br>wysokość deski: {height-cm} cm"
+        "descriptionTemplate": "szerokość deski: {shieldWidth-cm} cm</br>wysokość deski: {shieldHeight-cm} cm"
       }
     },
     "A2": {
-      "price": 80,
-      "dimensions": [
-        17,
-        33
-      ],
+      "price": 80, 
+      "dimensions": {
+        "shieldWidth": 17,
+        "shieldHeight": 33
+      },
       "images": [
         {
           "src": "/products/gallery/others/A2-1.JPG",
@@ -2579,27 +2580,27 @@
       ],
       "en-GB": {
         "title": "Roe Deer Antlers + carved shield ",
-        "descriptionTemplate": "shield width: {width-cm} cm, {width-inch}\"</br>shield height: {height-cm} cm, {height-inch}\""
+        "descriptionTemplate": "shield width: {shieldWidth-cm} cm, {shieldWidth-inch}\"</br>shield height: {shieldHeight-cm} cm, {shieldHeight-inch}\""
       },
       "en-US": {
         "title": "Roe Deer Antlers + carved shield",
-        "descriptionTemplate": "shield width: {width-cm} cm, {width-inch}\"</br>shield height: {height-cm} cm, {height-inch}\""
+        "descriptionTemplate": "shield width: {shieldWidth-cm} cm, {shieldWidth-inch}\"</br>shield height: {shieldHeight-cm} cm, {shieldHeight-inch}\""
       },
       "de-DE": {
         "title": "Rehgeweihe + geschnitzter Schild",
-        "descriptionTemplate": "Schildbreite: {width-cm} cm</br>Shildhöhe: {height-cm} cm"
+        "descriptionTemplate": "Schildbreite: {shieldWidth-cm} cm</br>Shildhöhe: {shieldHeight-cm} cm"
       },
       "pl-PL": {
         "title": "Poroże sarny na rzeżbionej desce",
-        "descriptionTemplate": "szerokość deski: {width-cm} cm</br>wysokość deski: {height-cm} cm"
+        "descriptionTemplate": "szerokość deski: {shieldWidth-cm} cm</br>wysokość deski: {shieldHeight-cm} cm"
       }
     },
     "A3": {
       "price": 60,
-      "dimensions": [
-        13,
-        23
-      ],
+      "dimensions": {
+        "shieldWidth": 13,
+        "shieldHeight": 23
+      },
       "images": [
         {
           "src": "/products/gallery/others/A3-1.JPG",
@@ -2619,27 +2620,27 @@
       ],
       "en-GB": {
         "title": "Roe Deer Antlers + shield",
-        "descriptionTemplate": "shield width: {width-cm} cm, {width-inch}\"</br>shield height: {height-cm} cm, {height-inch}\""
+        "descriptionTemplate": "shield width: {shieldWidth-cm} cm, {shieldWidth-inch}\"</br>shield height: {shieldHeight-cm} cm, {shieldHeight-inch}\""
       },
       "en-US": {
         "title": "Roe Deer Antlers + shield",
-        "descriptionTemplate": "shield width: {width-cm} cm, {width-inch}\"</br>shield height: {height-cm} cm, {height-inch}\""
+        "descriptionTemplate": "shield width: {shieldWidth-cm} cm, {shieldWidth-inch}\"</br>shield height: {shieldHeight-cm} cm, {shieldHeight-inch}\""
       },
       "de-DE": {
         "title": "Rehgeweihe + Schild",
-        "descriptionTemplate": "Schildbreite: {width-cm} cm</br>Shildhöhe: {height-cm} cm"
+        "descriptionTemplate": "Schildbreite: {shieldWidth-cm} cm</br>Shildhöhe: {shieldHeight-cm} cm"
       },
       "pl-PL": {
         "title": "Poroże sarny na desce",
-        "descriptionTemplate": "szerokość deski: {width-cm} cm</br>wysokość deski: {height-cm} cm"
+        "descriptionTemplate": "szerokość deski: {shieldWidth-cm} cm</br>wysokość deski: {shieldHeight-cm} cm"
       }
     },
     "A4": {
       "price": 55,
-      "dimensions": [
-        13,
-        26
-      ],
+      "dimensions": {
+        "shieldWidth": 13,
+        "shieldHeight": 26
+      },
       "images": [
         {
           "src": "/products/gallery/others/A4-1.JPG",
@@ -2659,27 +2660,27 @@
       ],
       "en-GB": {
         "title": "Roe Deer Antlers + shield",
-        "descriptionTemplate": "shield width: {width-cm} cm, {width-inch}\"</br>shield height: {height-cm} cm, {height-inch}\""
+        "descriptionTemplate": "shield width: {shieldWidth-cm} cm, {shieldWidth-inch}\"</br>shield height: {shieldHeight-cm} cm, {shieldHeight-inch}\""
       },
       "en-US": {
         "title": "Roe Deer Antlers + shield",
-        "descriptionTemplate": "shield width: {width-cm} cm, {width-inch}\"</br>shield height: {height-cm} cm, {height-inch}\""
+        "descriptionTemplate": "shield width: {shieldWidth-cm} cm, {shieldWidth-inch}\"</br>shield height: {shieldHeight-cm} cm, {shieldHeight-inch}\""
       },
       "de-DE": {
         "title": "Rehgeweihe + Schild",
-        "descriptionTemplate": "Schildbreite: {width-cm} cm</br>Shildhöhe: {height-cm} cm"
+        "descriptionTemplate": "Schildbreite: {shieldWidth-cm} cm</br>Shildhöhe: {shieldHeight-cm} cm"
       },
       "pl-PL": {
         "title": "Poroże sarny na desce",
-        "descriptionTemplate": "szerokość deski: {width-cm} cm</br>wysokość deski: {height-cm} cm"
+        "descriptionTemplate": "szerokość deski: {shieldWidth-cm} cm</br>wysokość deski: {shieldHeight-cm} cm"
       }
     },
     "A5": {
       "price": 55,
-      "dimensions": [
-        14,
-        24
-      ],
+      "dimensions": {
+        "shieldWidth": 14,
+        "shieldHeight": 24
+      },
       "images": [
         {
           "src": "/products/gallery/others/A5-1.JPG",
@@ -2699,27 +2700,27 @@
       ],
       "en-GB": {
         "title": "Roe Deer Antlers + shield",
-        "descriptionTemplate": "shield width: {width-cm} cm, {width-inch}\"</br>shield height: {height-cm} cm, {height-inch}\""
+        "descriptionTemplate": "shield width: {shieldWidth-cm} cm, {shieldWidth-inch}\"</br>shield height: {shieldHeight-cm} cm, {shieldHeight-inch}\""
       },
       "en-US": {
         "title": "Roe Deer Antlers + shield",
-        "descriptionTemplate": "shield width: {width-cm} cm, {width-inch}\"</br>shield height: {height-cm} cm, {height-inch}\""
+        "descriptionTemplate": "shield width: {shieldWidth-cm} cm, {shieldWidth-inch}\"</br>shield height: {shieldHeight-cm} cm, {shieldHeight-inch}\""
       },
       "de-DE": {
         "title": "Rehgeweihe + Schild",
-        "descriptionTemplate": "Schildbreite: {width-cm} cm</br>Shildhöhe: {height-cm} cm"
+        "descriptionTemplate": "Schildbreite: {shieldWidth-cm} cm</br>Shildhöhe: {shieldHeight-cm} cm"
       },
       "pl-PL": {
         "title": "Poroże sarny na desce",
-        "descriptionTemplate": "szerokość deski: {width-cm} cm</br>wysokość deski: {height-cm} cm"
+        "descriptionTemplate": "szerokość deski: {shieldWidth-cm} cm</br>wysokość deski: {shieldHeight-cm} cm"
       }
     },
     "A6": {
       "price": 55,
-      "dimensions": [
-        12,
-        19
-      ],
+      "dimensions": {
+        "shieldWidth": 12,
+        "shieldHeight": 19
+      },
       "images": [
         {
           "src": "/products/gallery/others/A6-1.JPG",
@@ -2739,19 +2740,19 @@
       ],
       "en-GB": {
         "title": "Roe Deer Antlers + shield",
-        "descriptionTemplate": "shield width: {width-cm} cm, {width-inch}\"</br>shield height: {height-cm} cm, {height-inch}\""
+        "descriptionTemplate": "shield width: {shieldWidth-cm} cm, {shieldWidth-inch}\"</br>shield height: {shieldHeight-cm} cm, {shieldHeight-inch}\""
       },
       "en-US": {
         "title": "Roe Deer Antlers + shield",
-        "descriptionTemplate": "shield width: {width-cm} cm, {width-inch}\"</br>shield height: {height-cm} cm, {height-inch}\""
+        "descriptionTemplate": "shield width: {shieldWidth-cm} cm, {shieldWidth-inch}\"</br>shield height: {shieldHeight-cm} cm, {shieldHeight-inch}\""
       },
       "de-DE": {
         "title": "Rehgeweihe + Schild",
-        "descriptionTemplate": "Schildbreite: {width-cm} cm</br>Shildhöhe: {height-cm} cm"
+        "descriptionTemplate": "Schildbreite: {shieldWidth-cm} cm</br>Shildhöhe: {shieldHeight-cm} cm"
       },
       "pl-PL": {
         "title": "Poroże sarny na desce",
-        "descriptionTemplate": "szerokość deski: {width-cm} cm</br>wysokość deski: {height-cm} cm"
+        "descriptionTemplate": "szerokość deski: {shieldWidth-cm} cm</br>wysokość deski: {shieldHeight-cm} cm"
       }
     },
     "I1": {
@@ -2969,9 +2970,9 @@
     },
     "I6": {
       "price": 70,
-      "dimensions": [
-        30
-      ],
+      "dimensions": {
+        "diameter": 30
+      },
       "images": [
         {
           "src": "/products/gallery/others/I6-1.JPG",
@@ -2981,26 +2982,26 @@
       ],
       "en-US": {
         "title": "Wooden contour played of a Roe Deer",
-        "descriptionTemplate": "diameter: {width-cm} cm, {width-inch}\""
+        "descriptionTemplate": "diameter: {diameter-cm} cm, {diameter-inch}\""
       },
       "en-GB": {
         "title": "Wooden contour played of a Roe Deer",
-        "descriptionTemplate": "diameter: {width-cm} cm, {width-inch}\""
+        "descriptionTemplate": "diameter: {diameter-cm} cm, {diameter-inch}\""
       },
       "de-DE": {
         "title": "Holzkontur eines Rehbock",
-        "descriptionTemplate": "Durchmesser: {width-cm} cm</br>"
+        "descriptionTemplate": "Durchmesser: {diameter-cm} cm</br>"
       },
       "pl-PL": {
         "title": "Drewniany kontur sarny",
-        "descriptionTemplate": "średnica: {width-cm} cm</br>"
+        "descriptionTemplate": "średnica: {diameter-cm} cm</br>"
       }
     },
     "I7": {
       "price": 30,
-      "dimensions": [
-        30
-      ],
+      "dimensions": {
+        "diameter": 30
+      },
       "images": [
         {
           "src": "/products/gallery/others/I7-1.JPG",
@@ -3010,26 +3011,26 @@
       ],
       "en-US": {
         "title": "Wooden contour played of a Roe Deer",
-        "descriptionTemplate": "diameter: {width-cm} cm, {width-inch}\""
+        "descriptionTemplate": "diameter: {diameter-cm} cm, {diameter-inch}\""
       },
       "en-GB": {
         "title": "Wooden contour played of a Roe Deer",
-        "descriptionTemplate": "diameter: {width-cm} cm, {width-inch}\""
+        "descriptionTemplate": "diameter: {diameter-cm} cm, {diameter-inch}\""
       },
       "de-DE": {
         "title": "Holzkontur eines Rehbock",
-        "descriptionTemplate": "Durchmesser: {width-cm} cm</br>"
+        "descriptionTemplate": "Durchmesser: {diameter-cm} cm</br>"
       },
       "pl-PL": {
         "title": "Drewniany kontur sarny",
-        "descriptionTemplate": "średnica: {width-cm} cm</br>"
+        "descriptionTemplate": "średnica: {diameter-cm} cm</br>"
       }
     },
     "I8": {
       "price": 30,
-      "dimensions": [
-        30
-      ],
+      "dimensions": {
+        "diameter": 30
+      },
       "images": [
         {
           "src": "/products/gallery/others/I8-1.JPG",
@@ -3039,19 +3040,19 @@
       ],
       "en-US": {
         "title": "Wooden contour played of a Fox",
-        "descriptionTemplate": "diameter: {width-cm} cm, {width-inch}\""
+        "descriptionTemplate": "diameter: {diameter-cm} cm, {diameter-inch}\""
       },
       "en-GB": {
         "title": "Wooden contour played of a Fox",
-        "descriptionTemplate": "diameter: {width-cm} cm, {width-inch}\""
+        "descriptionTemplate": "diameter: {diameter-cm} cm, {diameter-inch}\""
       },
       "de-DE": {
         "title": "Holzkontur einen Fuchs",
-        "descriptionTemplate": "Durchmesser: {width-cm} cm</br>"
+        "descriptionTemplate": "Durchmesser: {diameter-cm} cm</br>"
       },
       "pl-PL": {
         "title": "Drewniany kontur lisa",
-        "descriptionTemplate": "średnica: {width-cm} cm</br>"
+        "descriptionTemplate": "średnica: {diameter-cm} cm</br>"
       }
     },
     "P1": {
