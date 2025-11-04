@@ -2509,14 +2509,755 @@
         "title": "Medalion jenota na rzeźbionej desce nr 8",
         "descriptionTemplate": "szerokość: {width-cm} cm</br>wysokość: {height-cm} cm</br>głębokość: {depth-cm} cm</br>szerokość deski: {shieldWidth-cm} cm</br>wysokość deski: {shieldHeight-cm} cm"
       }
+    },
+    "Fw": {
+      "price": 240,
+      "dimensions": {
+        "width": 20,
+        "height": 50,
+        "length": 100
+      },
+      "images": [
+        {
+          "src": "/products/gallery/predators/Fw-1.JPG",
+          "thumbnail": "/products/thumbnails/predators/Fw-1.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/gallery/predators/Fw-2.JPG",
+          "thumbnail": "/products/thumbnails/predators/Fw-2.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/gallery/predators/Fw-3.JPG",
+          "thumbnail": "/products/thumbnails/predators/Fw-3.webp",
+          "key": 3
+        },
+        {
+          "src": "/products/gallery/predators/Fw-4.JPG",
+          "thumbnail": "/products/thumbnails/predators/Fw-4.webp",
+          "key": 4
+        }
+      ],
+      "en-US": {
+        "title": "Red Fox whole",
+        "descriptionTemplate": "width: {width-cm} cm, {width-inch}\"</br>height: {height-cm} cm, {height-inch}\"</br>length: {length-cm} cm, {length-inch}\""
+      },
+      "en-GB": {
+        "title": "Red Fox whole",
+        "descriptionTemplate": "width: {width-cm} cm, {width-inch}\"</br>height: {height-cm} cm, {height-inch}\"</br>length: {length-cm} cm, {length-inch}\""
+      },
+      "de-DE": {
+        "title": "Fuchs Präparat",
+        "descriptionTemplate": "Breite: {width-cm} cm</br>Höhe: {height-cm} cm</br>Länge: {length-cm} cm</br>"
+      },
+      "pl-PL": {
+        "title": "Spreparowany lis",
+        "descriptionTemplate": "szerokość: {width-cm} cm</br>wysokość: {height-cm} cm</br>długość: {length-cm} cm</br>"
+      }
+    },
+    "Fwr": {
+      "price": 275,
+      "dimensions": {
+        "width": 20,
+        "height": 60,
+        "length": 100
+      },
+      "images": [
+        {
+          "src": "/products/gallery/predators/Fwr-1.JPG",
+          "thumbnail": "/products/thumbnails/predators/Fwr-1.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/gallery/predators/Fwr-2.JPG",
+          "thumbnail": "/products/thumbnails/predators/Fwr-2.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/gallery/predators/Fwr-3.JPG",
+          "thumbnail": "/products/thumbnails/predators/Fwr-3.webp",
+          "key": 3
+        },
+        {
+          "src": "/products/gallery/predators/Fwr-4.JPG",
+          "thumbnail": "/products/thumbnails/predators/Fwr-4.webp",
+          "key": 4
+        },
+        {
+          "src": "/products/gallery/predators/Fwr-5.JPG",
+          "thumbnail": "/products/thumbnails/predators/Fwr-5.webp",
+          "key": 5
+        }
+      ],
+      "en-US": {
+        "title": "Red Fox whole + root",
+        "descriptionTemplate": "width: {width-cm} cm, {width-inch}\"</br>height: {height-cm} cm, {height-inch}\"</br>length: {length-cm} cm, {length-inch}\""
+      },
+      "en-GB": {
+        "title": "Red Fox whole + root",
+        "descriptionTemplate": "width: {width-cm} cm, {width-inch}\"</br>height: {height-cm} cm, {height-inch}\"</br>length: {length-cm} cm, {length-inch}\""
+      },
+      "de-DE": {
+        "title": "Fuchs Präparat an der Wurzel",
+        "descriptionTemplate": "Breite: {width-cm} cm</br>Höhe: {height-cm} cm</br>Länge: {length-cm} cm</br>"
+      },
+      "pl-PL": {
+        "title": "Spreparowany lis na korzeniu",
+        "descriptionTemplate": "szerokość: {width-cm} cm</br>wysokość: {height-cm} cm</br>długość: {length-cm} cm</br>"
+      }
+    },
+    "Bwr": {
+      "price": 320,
+      "dimensions": {
+        "width": 30,
+        "height": 45,
+        "length": 85
+      },
+      "images": [
+        {
+          "src": "/products/gallery/predators/Bwr-1.JPG",
+          "thumbnail": "/products/thumbnails/predators/Bwr-1.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/gallery/predators/Bwr-2.JPG",
+          "thumbnail": "/products/thumbnails/predators/Bwr-2.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/gallery/predators/Bwr-3.JPG",
+          "thumbnail": "/products/thumbnails/predators/Bwr-3.webp",
+          "key": 3
+        }
+      ],
+      "en-US": {
+        "title": "Badger whole + root",
+        "descriptionTemplate": "width: {width-cm} cm, {width-inch}\"</br>height: {height-cm} cm, {height-inch}\"</br>length: {length-cm} cm, {length-inch}\""
+      },
+      "en-GB": {
+        "title": "Badger whole + root",
+        "descriptionTemplate": "width: {width-cm} cm, {width-inch}\"</br>height: {height-cm} cm, {height-inch}\"</br>length: {length-cm} cm, {length-inch}\""
+      },
+      "de-DE": {
+        "title": "Dachs Präparat an der Wurzel",
+        "descriptionTemplate": "Breite: {width-cm} cm</br>Höhe: {height-cm} cm</br>Länge: {length-cm} cm</br>"
+      },
+      "pl-PL": {
+        "title": "Spreparowany borsuk na korzeniu",
+        "descriptionTemplate": "szerokość: {width-cm} cm</br>wysokość: {height-cm} cm</br>długość: {length-cm} cm</br>"
+      }
+    },
+    "Rawr": {
+      "price": 320,
+      "dimensions": {
+        "width": 30,
+        "height": 45,
+        "length": 85
+      },
+      "images": [
+        {
+          "src": "/products/gallery/predators/Rawr-1.JPG",
+          "thumbnail": "/products/thumbnails/predators/Rawr-1.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/gallery/predators/Rawr-2.JPG",
+          "thumbnail": "/products/thumbnails/predators/Rawr-2.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/gallery/predators/Rawr-3.JPG",
+          "thumbnail": "/products/thumbnails/predators/Rawr-3.webp",
+          "key": 3
+        }
+      ],
+      "en-US": {
+        "title": "Raccoon dog whole + root",
+        "descriptionTemplate": "width: {width-cm} cm, {width-inch}\"</br>height: {height-cm} cm, {height-inch}\"</br>length: {length-cm} cm, {length-inch}\""
+      },
+      "en-GB": {
+        "title": "Raccoon dog whole + root",
+        "descriptionTemplate": "width: {width-cm} cm, {width-inch}\"</br>height: {height-cm} cm, {height-inch}\"</br>length: {length-cm} cm, {length-inch}\""
+      },
+      "de-DE": {
+        "title": "Marderhund Präparat an der Wurzel",
+        "descriptionTemplate": "Breite: {width-cm} cm</br>Höhe: {height-cm} cm</br>Länge: {length-cm} cm</br>"
+      },
+      "pl-PL": {
+        "title": "Spreparowany jenot na korzeniu",
+        "descriptionTemplate": "szerokość: {width-cm} cm</br>wysokość: {height-cm} cm</br>długość: {length-cm} cm</br>"
+      }
     }
   },
-  "redDeer": {},
-  "skins": {},
+  "redDeer": {
+    "RD": {
+      "price": [500, 990],
+      "dimensions": {
+        "width": [70, 115],
+        "height": [125, 160],
+        "depth": [65, 78]
+      },
+      "images": [
+        {
+          "src": "/products/gallery/red-deer/RD-1.JPG",
+          "thumbnail": "/products/thumbnails/red-deer/RD-1.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/gallery/red-deer/RD-2.JPG",
+          "thumbnail": "/products/thumbnails/red-deer/RD-2.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/gallery/red-deer/RD-3.JPG",
+          "thumbnail": "/products/thumbnails/red-deer/RD-3.webp",
+          "key": 3
+        }
+      ],
+      "en-US": {
+        "title": "Red Deer Shoulder Mount",
+        "descriptionTemplate": "width: {width-cm} cm, {width-inch}\"</br>height: {height-cm} cm, {height-inch}\"</br>depth: {depth-cm} cm, {depth-inch}\""
+      },
+      "en-GB": {
+        "title": "Red Deer Shoulder Mount",
+        "descriptionTemplate": "width: {width-cm} cm, {width-inch}\"</br>height: {height-cm} cm, {height-inch}\"</br>depth: {depth-cm} cm, {depth-inch}\""
+      },
+      "de-DE": {
+        "title": "Rothirsch Kopf",
+        "descriptionTemplate": "Breite: {width-cm} cm</br>Höhe: {height-cm} cm</br>Tiefe: {depth-cm} cm</br>"
+      },
+      "pl-PL": {
+        "title": "Medalion jelenia",
+        "descriptionTemplate": "szerokość: {width-cm} cm</br>wysokość: {height-cm} cm</br>głębokość: {depth-cm} cm</br>"
+      }
+    }
+  },
+  "skins": {
+    "Wskin1": {
+      "price": [190, 380],
+      "dimensions": {
+        "width": [70, 145],
+        "length": [100, 180]
+      },
+      "images": [
+        {
+          "src": "/products/gallery/skins/Wskin1-1.JPG",
+          "thumbnail": "/products/thumbnails/skins/Wskin1-1.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/gallery/skins/Wskin1-2.JPG",
+          "thumbnail": "/products/thumbnails/skins/Wskin1-2.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/gallery/skins/Wskin1-3.JPG",
+          "thumbnail": "/products/thumbnails/skins/Wskin1-3.webp",
+          "key": 3
+        },
+        {
+          "src": "/products/gallery/skins/Wskin1-4.JPG",
+          "thumbnail": "/products/thumbnails/skins/Wskin1-4.webp",
+          "key": 4
+        }
+      ],
+      "en-US": {
+        "title": "Wild Boar skin with stuffed head",
+        "descriptionTemplate": "width: {width-cm} cm, {width-inch}\"</br>length: {length-cm} cm, {length-inch}\""
+      },
+      "en-GB": {
+        "title": "Wild Boar skin with stuffed head",
+        "descriptionTemplate": "width: {width-cm} cm, {width-inch}\"</br>length: {length-cm} cm, {length-inch}\""
+      },
+      "de-DE": {
+        "title": "Wildschweinfell mit ausgestopftem Kopf",
+        "descriptionTemplate": "Breite: {width-cm} cm</br>Länge: {length-cm} cm</br>"
+      },
+      "pl-PL": {
+        "title": "Skóra dzika ze spreparowaną głową",
+        "descriptionTemplate": "szerokość: {width-cm} cm</br>długość: {length-cm} cm</br>"
+      }
+    },
+    "Wskin2": {
+      "price": [70, 190],
+      "dimensions": {
+        "width": [70, 145],
+        "length": [100, 180]
+      },
+      "images": [
+        {
+          "src": "/products/gallery/skins/Wskin2-1.JPG",
+          "thumbnail": "/products/thumbnails/skins/Wskin2-1.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/gallery/skins/Wskin2-2.JPG",
+          "thumbnail": "/products/thumbnails/skins/Wskin2-2.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/gallery/skins/Wskin2-3.JPG",
+          "thumbnail": "/products/thumbnails/skins/Wskin2-3.webp",
+          "key": 3
+        }
+      ],
+      "en-US": {
+        "title": "Wild Boar skin",
+        "descriptionTemplate": "width: {width-cm} cm, {width-inch}\"</br>length: {length-cm} cm, {length-inch}\""
+      },
+      "en-GB": {
+        "title": "Wild Boar skin",
+        "descriptionTemplate": "width: {width-cm} cm, {width-inch}\"</br>length: {length-cm} cm, {length-inch}\""
+      },
+      "de-DE": {
+        "title": "Wildschweinfell",
+        "descriptionTemplate": "Breite: {width-cm} cm</br>Länge: {length-cm} cm</br>"
+      },
+      "pl-PL": {
+        "title": "Skóra dzika",
+        "descriptionTemplate": "szerokość: {width-cm} cm</br>długość: {length-cm} cm</br>"
+      }
+    },
+    "Fskin1": {
+      "price": 175,
+      "dimensions": {
+        "width": 90,
+        "length": 130
+      },
+      "images": [
+        {
+          "src": "/products/gallery/skins/Fskin1-1.JPG",
+          "thumbnail": "/products/thumbnails/skins/Fskin1-1.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/gallery/skins/Fskin1-2.JPG",
+          "thumbnail": "/products/thumbnails/skins/Fskin1-2.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/gallery/skins/Fskin1-3.JPG",
+          "thumbnail": "/products/thumbnails/skins/Fskin1-3.webp",
+          "key": 3
+        }
+      ],
+      "en-US": {
+        "title": "Red Fox skin with stuffed head",
+        "descriptionTemplate": "width: {width-cm} cm, {width-inch}\"</br>length: {length-cm} cm, {length-inch}\""
+      },
+      "en-GB": {
+        "title": "Red Fox skin with stuffed head",
+        "descriptionTemplate": "width: {width-cm} cm, {width-inch}\"</br>length: {length-cm} cm, {length-inch}\""
+      },
+      "de-DE": {
+        "title": "Fuchsfell mit ausgestopftem Kopf",
+        "descriptionTemplate": "Breite: {width-cm} cm</br>Länge: {length-cm} cm</br>"
+      },
+      "pl-PL": {
+        "title": "Skóra lisa ze spreparowaną głową",
+        "descriptionTemplate": "szerokość: {width-cm} cm</br>długość: {length-cm} cm</br>"
+      }
+    },
+    "Fskin2": {
+      "price": 35,
+      "dimensions": {
+        "width": 90,
+        "length": 130
+      },
+      "images": [
+        {
+          "src": "/products/gallery/skins/Fskin2-1.JPG",
+          "thumbnail": "/products/thumbnails/skins/Fskin2-1.webp",
+          "key": 1
+        }
+      ],
+      "en-US": {
+        "title": "Red Fox skin",
+        "descriptionTemplate": "width: {width-cm} cm, {width-inch}\"</br>length: {length-cm} cm, {length-inch}\""
+      },
+      "en-GB": {
+        "title": "Red Fox skin",
+        "descriptionTemplate": "width: {width-cm} cm, {width-inch}\"</br>length: {length-cm} cm, {length-inch}\""
+      },
+      "de-DE": {
+        "title": "Fuchsfell",
+        "descriptionTemplate": "Breite: {width-cm} cm</br>Länge: {length-cm} cm</br>"
+      },
+      "pl-PL": {
+        "title": "Skóra lisa",
+        "descriptionTemplate": "szerokość: {width-cm} cm</br>długość: {length-cm} cm</br>"
+      }
+    },
+    "Fskin3": {
+      "price": 22,
+      "dimensions": {
+        "width": 60,
+        "length": 50
+      },
+      "images": [
+        {
+          "src": "/products/gallery/skins/Fskin3-1.JPG",
+          "thumbnail": "/products/thumbnails/skins/Fskin3-1.webp",
+          "key": 1
+        }
+      ],
+      "en-US": {
+        "title": "Red Fox skin (no head and neck)",
+        "descriptionTemplate": "width: {width-cm} cm, {width-inch}\"</br>length: {length-cm} cm, {length-inch}\""
+      },
+      "en-GB": {
+        "title": "Red Fox skin (no head and neck)",
+        "descriptionTemplate": "width: {width-cm} cm, {width-inch}\"</br>length: {length-cm} cm, {length-inch}\""
+      },
+      "de-DE": {
+        "title": "Fuchsfell (ohne Kopf und Hals)",
+        "descriptionTemplate": "Breite: {width-cm} cm</br>Länge: {length-cm} cm</br>"
+      },
+      "pl-PL": {
+        "title": "Skóra lisa (bez głowy i karku)",
+        "descriptionTemplate": "szerokość: {width-cm} cm</br>długość: {length-cm} cm</br>"
+      }
+    },
+    "Bskin1": {
+      "price": 220,
+      "dimensions": {
+        "width": 75,
+        "length": 100
+      },
+      "images": [
+        {
+          "src": "/products/gallery/skins/Bskin1-1.JPG",
+          "thumbnail": "/products/thumbnails/skins/Bskin1-1.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/gallery/skins/Bskin1-2.JPG",
+          "thumbnail": "/products/thumbnails/skins/Bskin1-2.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/gallery/skins/Bskin1-3.JPG",
+          "thumbnail": "/products/thumbnails/skins/Bskin1-3.webp",
+          "key": 3
+        }
+      ],
+      "en-US": {
+        "title": "Badger skin with stuffed head",
+        "descriptionTemplate": "width: {width-cm} cm, {width-inch}\"</br>length: {length-cm} cm, {length-inch}\""
+      },
+      "en-GB": {
+        "title": "Badger skin with stuffed head",
+        "descriptionTemplate": "width: {width-cm} cm, {width-inch}\"</br>length: {length-cm} cm, {length-inch}\""
+      },
+      "de-DE": {
+        "title": "Dachsfell mit ausgestopftem Kopf",
+        "descriptionTemplate": "Breite: {width-cm} cm</br>Länge: {length-cm} cm</br>"
+      },
+      "pl-PL": {
+        "title": "Skóra borsuka ze spreparowaną głową",
+        "descriptionTemplate": "szerokość: {width-cm} cm</br>długość: {length-cm} cm</br>"
+      }
+    },
+    "Bskin2": {
+      "price": 100,
+      "dimensions": {
+        "width": 75,
+        "length": 100
+      },
+      "images": [
+        {
+          "src": "/products/gallery/skins/Bskin2-1.JPG",
+          "thumbnail": "/products/thumbnails/skins/Bskin2-1.webp",
+          "key": 1
+        }
+      ],
+      "en-US": {
+        "title": "Badger skin",
+        "descriptionTemplate": "width: {width-cm} cm, {width-inch}\"</br>length: {length-cm} cm, {length-inch}\""
+      },
+      "en-GB": {
+        "title": "Badger skin",
+        "descriptionTemplate": "width: {width-cm} cm, {width-inch}\"</br>length: {length-cm} cm, {length-inch}\""
+      },
+      "de-DE": {
+        "title": "Dachsfell",
+        "descriptionTemplate": "Breite: {width-cm} cm</br>Länge: {length-cm} cm</br>"
+      },
+      "pl-PL": {
+        "title": "Skóra borsuka",
+        "descriptionTemplate": "szerokość: {width-cm} cm</br>długość: {length-cm} cm</br>"
+      }
+    },
+    "Bskin3": {
+      "price": 30,
+      "dimensions": {
+        "width": 60,
+        "length": 50
+      },
+      "images": [
+        {
+          "src": "/products/gallery/skins/Bskin3-1.JPG",
+          "thumbnail": "/products/thumbnails/skins/Bskin3-1.webp",
+          "key": 1
+        }
+      ],
+      "en-US": {
+        "title": "Badger skin (no head and neck)",
+        "descriptionTemplate": "width: {width-cm} cm, {width-inch}\"</br>length: {length-cm} cm, {length-inch}\""
+      },
+      "en-GB": {
+        "title": "Badger skin (no head and neck)",
+        "descriptionTemplate": "width: {width-cm} cm, {width-inch}\"</br>length: {length-cm} cm, {length-inch}\""
+      },
+      "de-DE": {
+        "title": "Dachsfell (ohne Kopf und Hals)",
+        "descriptionTemplate": "Breite: {width-cm} cm</br>Länge: {length-cm} cm</br>"
+      },
+      "pl-PL": {
+        "title": "Skóra borsuka (bez głowy i karku)",
+        "descriptionTemplate": "szerokość: {width-cm} cm</br>długość: {length-cm} cm</br>"
+      }
+    },
+    "Raskin1": {
+      "price": 220,
+      "dimensions": {
+        "width": 70,
+        "length": 100
+      },
+      "images": [
+        {
+          "src": "/products/gallery/skins/Raskin1-1.JPG",
+          "thumbnail": "/products/thumbnails/skins/Raskin1-1.webp",
+          "key": 1
+        },
+        {
+          "src": "/products/gallery/skins/Raskin1-2.JPG",
+          "thumbnail": "/products/thumbnails/skins/Raskin1-2.webp",
+          "key": 2
+        },
+        {
+          "src": "/products/gallery/skins/Raskin1-3.JPG",
+          "thumbnail": "/products/thumbnails/skins/Raskin1-3.webp",
+          "key": 3
+        }
+      ],
+      "en-US": {
+        "title": "Raccoon Dog skin with stuffed head",
+        "descriptionTemplate": "width: {width-cm} cm, {width-inch}\"</br>length: {length-cm} cm, {length-inch}\""
+      },
+      "en-GB": {
+        "title": "Raccoon Dog skin with stuffed head",
+        "descriptionTemplate": "width: {width-cm} cm, {width-inch}\"</br>length: {length-cm} cm, {length-inch}\""
+      },
+      "de-DE": {
+        "title": "Marderhundsfell mit ausgestopftem Kopf",
+        "descriptionTemplate": "Breite: {width-cm} cm</br>Länge: {length-cm} cm</br>"
+      },
+      "pl-PL": {
+        "title": "Skóra jenota ze spreparowaną głową",
+        "descriptionTemplate": "szerokość: {width-cm} cm</br>długość: {length-cm} cm</br>"
+      }
+    },
+    "Raskin3": {
+      "price": 30,
+      "dimensions": {
+        "width": 60,
+        "length": 50
+      },
+      "images": [
+        {
+          "src": "/products/gallery/skins/Raskin3-1.JPG",
+          "thumbnail": "/products/thumbnails/skins/Raskin3-1.webp",
+          "key": 1
+        }
+      ],
+      "en-US": {
+        "title": "Raccoon Dog skin (no head and neck)",
+        "descriptionTemplate": "width: {width-cm} cm, {width-inch}\"</br>length: {length-cm} cm, {length-inch}\""
+      },
+      "en-GB": {
+        "title": "Raccoon Dog skin (no head and neck)",
+        "descriptionTemplate": "width: {width-cm} cm, {width-inch}\"</br>length: {length-cm} cm, {length-inch}\""
+      },
+      "de-DE": {
+        "title": "Marderhundsfell (ohne Kopf und Hals)",
+        "descriptionTemplate": "Breite: {width-cm} cm</br>Länge: {length-cm} cm</br>"
+      },
+      "pl-PL": {
+        "title": "Skóra jenota (bez głowy i karku)",
+        "descriptionTemplate": "szerokość: {width-cm} cm</br>długość: {length-cm} cm</br>"
+      }
+    }
+
+  },
   "others": {
+    "Wtusk": {
+      "price": [40, 120],
+      "images": [
+        {
+          "src": "/products/gallery/others/Wtusk-1.JPG",
+          "thumbnail": "/products/thumbnails/others/Wtusk-1.webp",
+          "key": 1
+        }
+      ],
+      "en-US": {
+        "title": "Wild Boar Tusks"
+      },
+      "en-GB": {
+        "title": "Wild Boar Tusks"
+      },
+      "de-DE": {
+        "title": "Keilerwaffen"
+      },
+      "pl-PL": {
+        "title": "Oręż dzika"
+      }
+    },
+    "Wtail": {
+      "price": 15,
+      "dimensions": {
+        "length": 40
+      },
+      "images": [
+        {
+          "src": "/products/gallery/others/Wtail-1.JPG",
+          "thumbnail": "/products/thumbnails/others/Wtail-1.webp",
+          "key": 1
+        }
+      ],
+      "en-US": {
+        "title": "Wild Boar Tail",
+        "descriptionTemplate": "length: {length-cm} cm, {length-inch}\""
+      },
+      "en-GB": {
+        "title": "Wild Boar Tail",
+        "descriptionTemplate": "length: {length-cm} cm, {length-inch}\""
+      },
+      "de-DE": {
+        "title": "Wildschweinschwanz",
+        "descriptionTemplate": "Länge: {length-cm} cm, {length-inch}\"" 
+      },
+      "pl-PL": {
+        "title": "Ogon dzika",
+        "descriptionTemplate": "długość: {length-cm} cm, {length-inch}\""
+      }
+    },
+    "Ftail": {
+      "price": 7,
+      "images": [
+        {
+          "src": "/products/gallery/others/Ftail-1.JPG",
+          "thumbnail": "/products/thumbnails/others/Ftail-1.webp",
+          "key": 1
+        }
+      ],
+      "en-US": {
+        "title": "Red Fox Tail"
+      },
+      "en-GB": {
+        "title": "Red Fox Tail"
+      },
+      "de-DE": {
+        "title": "Fuchsschwanz"
+      },
+      "pl-PL": {
+        "title": "Ogon lisa"
+      }
+    },
+    "SW": {
+      "price": [80, 120],
+      "dimensions": {
+        "width": 15,
+        "length": 40
+      },
+      "images": [
+        {
+          "src": "/products/gallery/others/SW-1.JPG",
+          "thumbnail": "/products/thumbnails/others/SW-1.webp",
+          "key": 1
+        }
+      ],
+      "en-US": {
+        "title": "Skull wild boar",
+        "descriptionTemplate": "width: {width-cm} cm, {width-inch}\"</br>length: {length-cm} cm, {length-inch}\""
+      },
+      "en-GB": {
+        "title": "Skull wild boar",
+        "descriptionTemplate": "width: {width-cm} cm, {width-inch}\"</br>length: {length-cm} cm, {length-inch}\""
+      },
+      "de-DE": {
+        "title": "Wildschweinschädel",
+        "descriptionTemplate": "Breite: {width-cm} cm</br>Länge: {length-cm} cm, {length-inch}\"" 
+      },
+      "pl-PL": {
+        "title": "Czaszka dzika",
+        "descriptionTemplate": "szerokość: {width-cm} cm</br>długość: {length-cm} cm, {length-inch}\""
+      }
+    },
+    "SB": {
+      "price": 30,
+      "dimensions": {
+        "width": 8,
+        "length": 14
+      },
+      "images": [
+        {
+          "src": "/products/gallery/others/SB-1.JPG",
+          "thumbnail": "/products/thumbnails/others/SB-1.webp",
+          "key": 1
+        }
+      ],
+      "en-US": {
+        "title": "Skull badger",
+        "descriptionTemplate": "width: {width-cm} cm, {width-inch}\"</br>length: {length-cm} cm, {length-inch}\""
+      },
+      "en-GB": {
+        "title": "Skull badger",
+        "descriptionTemplate": "width: {width-cm} cm, {width-inch}\"</br>length: {length-cm} cm, {length-inch}\""
+      },
+      "de-DE": {
+        "title": "Dachsschädel",
+        "descriptionTemplate": "Breite: {width-cm} cm</br>Länge: {length-cm} cm, {length-inch}\"" 
+      },
+      "pl-PL": {
+        "title": "Czaszka borsuka",
+        "descriptionTemplate": "szerokość: {width-cm} cm</br>długość: {length-cm} cm, {length-inch}\""
+      }
+    },
+    "SRa": {
+      "price": 30,
+      "dimensions": {
+        "width": 7,
+        "length": 13
+      },
+      "images": [
+        {
+          "src": "/products/gallery/others/SRa-1.JPG",
+          "thumbnail": "/products/thumbnails/others/SRa-1.webp",
+          "key": 1
+        }
+      ],
+      "en-US": {
+        "title": "Skull raccoon dog",
+        "descriptionTemplate": "width: {width-cm} cm, {width-inch}\"</br>length: {length-cm} cm, {length-inch}\""
+      },
+      "en-GB": {
+        "title": "Skull raccoon dog",
+        "descriptionTemplate": "width: {width-cm} cm, {width-inch}\"</br>length: {length-cm} cm, {length-inch}\""
+      },
+      "de-DE": {
+        "title": "Marderhundsschädel",
+        "descriptionTemplate": "Breite: {width-cm} cm</br>Länge: {length-cm} cm, {length-inch}\"" 
+      },
+      "pl-PL": {
+        "title": "Czaszka jenota",
+        "descriptionTemplate": "szerokość: {width-cm} cm</br>długość: {length-cm} cm, {length-inch}\""
+      }
+    },
     "A1": {
       "price": 80,
-      "dimensions": 
+      "dimensions":
       {
         "shieldWidth": 20,
         "shieldHeight": 32
