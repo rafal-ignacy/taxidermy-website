@@ -49,15 +49,23 @@ function ItemCard(props) {
   });
 
   function generateDescription(descriptionTemplate, dimensions) {
-    let cmIndex = 0;
-    let inchIndex = 0;
+    let description = descriptionTemplate;
 
-    let description = descriptionTemplate
-      .replace(/{dimension(\d+)-cm}/g, () => dimensions[cmIndex++])
-      .replace(/{dimension(\d+)-inch}/g, () => {
-        let inchValue = (dimensions[inchIndex++] / 2.54).toFixed(1);
-        return inchValue.endsWith('.0') ? inchValue.slice(0, -2) : inchValue;
-      });
+    // Replace cm values: {width-cm}, {height-cm}, {depth-cm}, {shieldWidth-cm}, {shieldHeight-cm}
+    description = description.replace(/{(\w+)-cm}/g, (match, key) => {
+      return dimensions[key] !== undefined ? dimensions[key] : match;
+    });
+
+    // Replace inch values: {width-inch}, {height-inch}, {depth-inch}, {shieldWidth-inch}, {shieldHeight-inch}
+    description = description.replace(/{(\w+)-inch}/g, (match, key) => {
+      const value = dimensions[key];
+      if (value === null || value === undefined) {
+        return match;
+      }
+      let inchValue = (value / 2.54).toFixed(1);
+      return inchValue.endsWith('.0') ? inchValue.slice(0, -2) : inchValue;
+    });
+
     return description;
   }
 
