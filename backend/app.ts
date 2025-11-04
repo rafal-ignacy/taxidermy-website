@@ -12,8 +12,8 @@ dotenv.config();
 const app = express();
 const port = process.env.HTTP_PORT!;
 
-const certPath = "/etc/ssl/fullchain.pem";
-const keyPath = "/etc/ssl/privkey.pem";
+const certPath = process.env.SSL_CERT_PATH!;
+const keyPath = process.env.SSL_KEY_PATH!;
 
 interface SmtpConfig extends TransportOptions {
   host: string;
@@ -31,10 +31,7 @@ const corsOptions = {
   allowedHeaders: ["Content-Type", "Content-Length"],
 };
 
-const options = {
-  key: fs.readFileSync(keyPath),
-  cert: fs.readFileSync(certPath),
-};
+const useHttps = process.env.USE_HTTPS !== "false";
 
 const logger = winston.createLogger({
   level: "info",
@@ -56,6 +53,21 @@ const limiter = rateLimit({
   max: 1,
   standardHeaders: true,
   legacyHeaders: false,
+  keyGenerator: (req: Request): string => {
+    const xRealIp = req.headers["x-real-ip"];
+    if (typeof xRealIp === "string" && xRealIp.length > 0) return xRealIp;
+    if (Array.isArray(xRealIp) && xRealIp.length > 0) return xRealIp[0];
+
+    const xForwardedFor = req.headers["x-forwarded-for"];
+    if (typeof xForwardedFor === "string" && xForwardedFor.length > 0) {
+      return xForwardedFor.split(",")[0].trim();
+    }
+    if (Array.isArray(xForwardedFor) && xForwardedFor.length > 0) {
+      return String(xForwardedFor[0]).split(",")[0].trim();
+    }
+
+    return req.ip || "unknown";
+  },
   handler: (req: Request, res: Response) => {
     logger.warn(`Rate limit exceeded: ${req.ip}`);
     res.status(429).send('Rate limit exceeded');
@@ -139,6 +151,16 @@ app.post("/contact-form", async (req: Request, res: Response) => {
   }
 });
 
-https.createServer(options, app).listen(port, () => {
-  logger.info(`Server is running on port ${port}`);
-});
+if (useHttps) {
+  const options = {
+    key: fs.readFileSync(keyPath),
+    cert: fs.readFileSync(certPath),
+  };
+  https.createServer(options, app).listen(port, () => {
+    logger.info(`HTTPS server is running on port ${port}`);
+  });
+} else {
+  app.listen(port, () => {
+    logger.info(`HTTP server is running on port ${port}`);
+  });
+}
