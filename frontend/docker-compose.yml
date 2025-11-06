@@ -4,6 +4,8 @@ services:
       context: .
       dockerfile: Dockerfile
     container_name: taxidermy-website-frontend-prod
+    volumes:
+      - ./logs/nginx:/var/log/nginx
 #    volumes:
 #      - /etc/ssl:/etc/ssl
 #      - ./nginx.conf:/etc/nginx/nginx.conf
