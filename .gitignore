@@ -8,3 +8,5 @@ logs/
 *.jpg
 *.JPG
 *.webp
+*.mmdb
+reports/
