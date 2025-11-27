@@ -61,6 +61,9 @@
     "transl.contact.message.status.413": "Received content is too large. Please try again.",
     "transl.contact.message.status.429": "Too many requests. Please try again later.",
     "transl.contact.message.status.500": "Server error. Please try again later.",
+    "transl.contact.write.to.me": "Write to me at the email address ",
+    "transl.contact.email.address": "contact@taxidermypoland.com",
+    "transl.contact.write.to.me.2": " or use the contact form below.",
     "transl.product.idTitle": "ID",
     "transl.product.priceTitle": "Price"
   },
@@ -126,6 +129,9 @@
     "transl.contact.message.status.413": "Die empfangene Datei ist zu groß. Bitte versuchen Sie es erneut.",
     "transl.contact.message.status.429": "Zu viele Anfragen. Bitte versuchen Sie es später erneut.",
     "transl.contact.message.status.500": "Serverfehler. Bitte versuchen Sie es später erneut.",
+    "transl.contact.write.to.me": "Schreiben Sie mir an die E-Mail-Adresse ",
+    "transl.contact.email.address": "contact@taxidermypoland.com",
+    "transl.contact.write.to.me.2": " oder verwenden Sie das Kontaktformular unten.",
     "transl.product.idTitle": "ID",
     "transl.product.priceTitle": "Preis"
   },
@@ -191,6 +197,9 @@
     "transl.contact.message.status.413": "Received content is too large. Please try again.",
     "transl.contact.message.status.429": "Too many requests. Please try again later.",
     "transl.contact.message.status.500": "Server error. Please try again later.",
+    "transl.contact.write.to.me": "Write to me at the email address ",
+    "transl.contact.email.address": "contact@taxidermypoland.com",
+    "transl.contact.write.to.me.2": " or use the contact form below.",
     "transl.product.idTitle": "ID",
     "transl.product.priceTitle": "Price"
   },
@@ -256,6 +265,9 @@
     "transl.contact.message.status.413": "Otrzymana zawartość jest zbyt duża. Proszę spróbować ponownie.",
     "transl.contact.message.status.429": "Zbyt wiele żądań. Proszę spróbować później.",
     "transl.contact.message.status.500": "Błąd serwera. Proszę spróbować później.",
+    "transl.contact.write.to.me": "Napisz do mnie na adres e-mail ",
+    "transl.contact.email.address": "contact@taxidermypoland.com",
+    "transl.contact.write.to.me.2": " lub użyj formularza kontaktowego poniżej.",
     "transl.product.idTitle": "ID",
     "transl.product.priceTitle": "Cena"
   }
