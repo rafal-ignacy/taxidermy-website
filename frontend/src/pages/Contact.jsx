@@ -105,6 +105,21 @@ function Contact() {
           {translation(language, 'transl.contact.title')}
         </h3>
         <Container className="px-5">
+          {<div className='mb-4'>
+            <span>
+              {translation(language, 'transl.contact.write.to.me')}
+            </span> 
+            <a
+              className="fw-bold"
+              href={`mailto:${translation(language, 'transl.contact.email.address')}`}
+              style={{ textDecoration: 'none', color: 'inherit' }}
+            >
+              {translation(language, 'transl.contact.email.address')}
+            </a>
+            <span>
+              {translation(language, 'transl.contact.write.to.me.2')}
+            </span> 
+          </div>}
           {!formSubmitted ? (
             <>
               <Form onSubmit={handleSubmit}>
