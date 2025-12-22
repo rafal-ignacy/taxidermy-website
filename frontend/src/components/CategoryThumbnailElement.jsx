@@ -24,7 +24,7 @@ function CategoryThumbnailElement(props) {
           className="img-fluid rounded category-img"
           effect="blur"
           src={props.img}
-          alt=""
+          alt={translation(language, props.titleKey)}
         />
         <div className="category-overlay">
           <div className="category-title">
