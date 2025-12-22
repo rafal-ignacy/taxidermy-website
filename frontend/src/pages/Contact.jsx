@@ -16,6 +16,8 @@ import Header from '@components/Header';
 import ContentWrapper from '@components/ContentWrapper';
 import { translation } from '@utils/Helpers';
 import { handledRequestStatuses, contactFormURL } from '@utils/Constants';
+import SEO from '@utils/SEO';
+import Breadcrumbs from '@utils/Breadcrumbs';
 import '@styles/contact.css';
 
 function Contact() {
@@ -96,13 +98,23 @@ function Contact() {
     }
   };
 
+  const pageTitle = translation(language, 'transl.contact.title');
+  const emailAddress = translation(language, 'transl.contact.email.address');
+
   return (
     <>
+      <SEO
+        title={`${pageTitle} - Taxidermy Poland | Get in Touch`}
+        description={`Contact Taxidermy Poland for inquiries about our taxidermy specimens. Email us at ${emailAddress} or use our contact form.`}
+        path="/contact"
+        language={language}
+      />
+      <Breadcrumbs language={language} />
       <NavBar expand="lg" dark />
       <Header />
       <ContentWrapper>
         <h3 className="mb-4 text-center fw-bold">
-          {translation(language, 'transl.contact.title')}
+          {pageTitle}
         </h3>
         <Container className="px-5">
           {<div className='mb-4'>
@@ -111,10 +123,10 @@ function Contact() {
             </span> 
             <a
               className="fw-bold"
-              href={`mailto:${translation(language, 'transl.contact.email.address')}`}
+              href={`mailto:${emailAddress}`}
               style={{ textDecoration: 'none', color: 'inherit' }}
             >
-              {translation(language, 'transl.contact.email.address')}
+              {emailAddress}
             </a>
             <span>
               {translation(language, 'transl.contact.write.to.me.2')}

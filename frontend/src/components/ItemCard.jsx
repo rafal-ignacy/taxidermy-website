@@ -43,6 +43,7 @@ function ItemCard(props) {
           effect="blur"
           onClick={() => setOpen(true)}
           src={item.thumbnail}
+          alt={props.title ? `${props.title} - Image ${index + 1}` : `Taxidermy specimen - Image ${index + 1}`}
         />
       </CarouselItem>
     );

@@ -6,7 +6,7 @@ function Header() {
   <Container fluid='sm'>
     <Row>
       <Col>
-        <img className='m-4' src={Logo} alt='' width='40%'/>
+        <img className='m-4' src={Logo} alt='Taxidermy Poland Logo' width='40%'/>
       </Col>
     </Row>
   </Container>

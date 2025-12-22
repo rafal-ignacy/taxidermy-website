@@ -7,6 +7,8 @@ import ContentWrapper from '@components/ContentWrapper';
 import { exchangeRate, translation } from '@utils/Helpers';
 import { languageToCurrency } from '@utils/Constants';
 import shippingTable from '@data/shipping.json';
+import SEO from '@utils/SEO';
+import Breadcrumbs from '@utils/Breadcrumbs';
 
 function Shipping() {
   const { language } = useContext(LanguageContext);
@@ -29,16 +31,26 @@ function Shipping() {
     fetchConvertedPrices();
   }, [language]);
 
+  const pageTitle = translation(language, 'transl.shipping.title');
+  const pageDescription = translation(language, 'transl.shipping.content');
+
   return (
     <>
+      <SEO
+        title={`${pageTitle} - Taxidermy Poland | International Shipping`}
+        description={`${pageDescription.substring(0, 155)}... Shipping costs depend on package weight and destination.`}
+        path="/shipping"
+        language={language}
+      />
+      <Breadcrumbs language={language} />
       <NavBar expand="lg" dark />
       <Header />
       <ContentWrapper>
         <h3 className="mb-4 text-center fw-bold">
-          {translation(language, 'transl.shipping.title')}
+          {pageTitle}
         </h3>
         <span className="mb-4">
-          {translation(language, 'transl.shipping.content')}
+          {pageDescription}
         </span>
         <Table responsive>
           <thead>
