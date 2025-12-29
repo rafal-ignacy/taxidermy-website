@@ -1,3 +1,4 @@
+name: taxidermy-website 
 services:
   backend:
     build:

@@ -2,6 +2,7 @@
 todo
 settings.json
 build/
+dist/
 node_modules/
 logs/
 *.log
