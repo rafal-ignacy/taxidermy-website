@@ -87,9 +87,9 @@ def main():
     with open(OUTPUT_JSON, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
-    print(f"✅ Zapisano: {OUTPUT_JSON}")
-    print(f"📊 Kategorie: {len(data)}")
-    print(f"📈 Produktów: {sum(len(products) for products in data.values())}")
+    print(f"✅ Saved: {OUTPUT_JSON}")
+    print(f"📊 Categories: {len(data)}")
+    print(f"📈 Products: {sum(len(products) for products in data.values())}")
 
 
 if __name__ == "__main__":
